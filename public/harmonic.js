@@ -1332,6 +1332,22 @@ var Harmonic = function Harmonic(name) {
     return {
       "en": [{
         "layout": "post",
+        "title": "Novo blog, powered by Harmonic",
+        "date": "2014-07-14T02:56:47.567Z",
+        "comments": "true",
+        "published": "true",
+        "keywords": "",
+        "description": "Post sobre o novo blog, utilizando o Harmonic",
+        "categories": ["Harmonic", " ES6"],
+        "image": "/img/harmonic-blog.jpg",
+        "content": "<h1 id=\"novo-blog-powered-by-harmonic\">Novo blog, powered by Harmonic</h1>\n",
+        "file": "./src/posts/novo-blog-powered-by-harmonic.md",
+        "filename": "novo-blog-powered-by-harmonic",
+        "link": "novo-blog-powered-by-harmonic",
+        "lang": "en",
+        "default_lang": true
+      }, {
+        "layout": "post",
         "title": "ES6 Rocks - RSJS 2014",
         "date": "2014-05-17T17:26:00.000Z",
         "comments": "true",
@@ -3330,6 +3346,22 @@ var Harmonic = function Harmonic(name) {
         "default_lang": true
       }],
       "pt-br": [{
+        "layout": "post",
+        "title": "Novo blog, powered by Harmonic",
+        "date": "2014-07-14T02:56:47.567Z",
+        "comments": "true",
+        "published": "true",
+        "keywords": "",
+        "description": "Post sobre o novo blog, utilizando o Harmonic",
+        "categories": ["Harmonic", " ES6"],
+        "image": "img/harmonic-blog.jpg",
+        "content": "<p>Galera, é com muita satisfação que hoje anuncio uma mudança aqui no Blog.<br>Ao longo desses 6 anos que o mantenho, já fiz diversas mudanças, a última vez por exemplo, foi a migração do Wordpress para o Octopress (relatado aqui: <a href=\"http://jaydson.org/migrando-para-octopress/\">http://jaydson.org/migrando-para-octopress/</a>).<br>Desta vez a satisfação é reforçada, pois estou utilizando uma solução criada por mim, para gerar sites estáticos.  </p>\n<h2 id=\"harmonic\">Harmonic</h2>\n<p>Tenho estudado bastante sobre <a href=\"http://es6rocks.com\">ES6</a> nos últimos meses, inclusive dei <a href=\"https://speakerdeck.com/jaydson/javascript-do-futuro-no-presente\">algumas</a> <a href=\"https://speakerdeck.com/jaydson/es6-rocks\">palestras</a> sobre  o assunto, e acabei mergulhando tanto, que alguns projetos nasceram.<br>Um destes projetos é o <a href=\"https://github.com/es6rocks/harmonic\">Harmonic</a>, um gerador de sites estáticos feito em <a href=\"http://nodejs.org\">node</a>, utilizando algumas features de ES6.<br>O projeto ainda está em alpha, mas como voces podem ver, o meu blog já está rodando com ele, assim como o site do <a href=\"http://es6rocks.com\">ES6Rocks.com</a>.  </p>\n<h2 id=\"porqu-um-novo-gerador\">Porquê um novo gerador</h2>\n<p>Quando inicei a pesquisa para a migração do Wordpress, acabei escolhendo usar o <a href=\"http://octopress.org/\">Octopress</a> pelo seu ecossistema.<br>Eu gostaria de ter usado algo feito em node, para poder contribuir ativamente, mas na época não encontrei nenhum que me agradasse.<br>O mais famoso e utilizado gerador estático em node é o <a href=\"http://docpad.org/\">Docpad</a>, mas tive receio em usa-lo por n motivos, sendo um desses motivos o fato do Docpad ser feito em <a href=\"http://coffeescript.org/\">CoffeeScript</a> e também por ter achado o projeto meio complexo arquiteturalmente.<br>A principal motivação para desenvolver o Harmonic foi o fato de poder fazer algo com ES6 e também por fazer alguma coisa paupável com Node.<br>O projeto criou corpo e em breve deve deixar de ser apenas um &quot;experimento&quot;.<br>Falarei mais sobre o Harmonic em posts futuros.<br>Se está interessado em contribuir ou usa-lo no seu blog, ficarei feliz em ajudar.<br><a href=\"https://github.com/es6rocks/harmonic\">https://github.com/es6rocks/harmonic</a>  </p>\n<h2 id=\"sobre-o-novo-blog\">Sobre o novo Blog</h2>\n<p>Desde 2009 eu mantenho esse Blog, e tenho a impressão de que as pessoas não chegam em posts antigos por não ter uma maneira fácil de acessa-los.<br>Criei um tema para o Harmonic, baseado no tema que o <a href=\"https://twitter.com/atilafassina\">Átila Fassina</a> fez para o <a href=\"http://es6rocks.com\">ES6Rocks</a>.<br>Este tema carrega posts conforme a barra de rolagem chega ao seu final. Desta maneira fica mais fácil consumir posts antigos.<br>Para a página do post em si, tentei deixar o menos poluído possível, mantendo as cores e fontes do blog anterior.<br>Me inspirei bastante no blog do <a href=\"http://bradfrostweb.com/\">Brad Frost</a> para criar essas páginas.  </p>\n<h2 id=\"considera-es-finais\">Considerações finais</h2>\n<p>É sempre legal criar coisas novas e úteis, mesmo que muitas vezes pareça que se está reinventando a roda, o aprendizado é válido.<br>Outra dica que sempre dou para pessoas novas na área é que exponham o seu códgio e criem coisas.<br>Hoje o Harmonic está como está porque uso o Github  como base, e lá consigo interagir com diversas pessoas que me dão dicas, resolvem problemas, reportam problemas, etc.  </p>\n<p>Quero deixar registrado o meu agradecimento ao <a href=\"https://twitter.com/atilafassina\">Átila Fassina</a> que fez o meu novo logo:  </p>\n<p><div style=\"text-align:center\"><img src=\"/images/logo-jaydson-gray.png\" alt=\"Jaydson logo\"><div>  </p>\n<p>É isso galera, espero que tenham gostado tanto do novo blog quanto do Harmonic.  </p>\n",
+        "file": "./src/posts/novo-blog-powered-by-harmonic.md",
+        "filename": "novo-blog-powered-by-harmonic",
+        "link": "novo-blog-powered-by-harmonic",
+        "lang": "pt-br",
+        "default_lang": false
+      }, {
         "layout": "post",
         "title": "ES6 Rocks - RSJS 2014",
         "date": "2014-05-17T17:26:00.000Z",
