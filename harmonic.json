@@ -1,0 +1,25 @@
+{
+    "name": "Jaydson Gomes",
+    "title": "Jaydson Gomes",
+    "domain": "http://awesome.com",
+    "subtitle": "Powered by Harmonic",
+    "author": "Jaydson",
+    "description": "Coisas sobre JavaScript",
+    "bio": "Thats me",
+    "template": "theme-jaydson",
+    "preprocessor": "stylus",
+    "posts_permalink": ":year/:month/:title",
+    "pages_permalink": "pages/:title",
+    "header_tokens": [
+        "<!--",
+        "-->"
+    ],
+    "index_posts": 10,
+    "i18n": {
+        "default": "en",
+        "languages": [
+            "en",
+            "pt-br"
+        ]
+    }
+}
