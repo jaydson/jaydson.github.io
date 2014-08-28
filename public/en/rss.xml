@@ -6,9 +6,18 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Thu, 28 Aug 2014 04:31:03 GMT</pubDate>
+        <pubDate>Thu, 28 Aug 2014 04:40:15 GMT</pubDate>
         <language>en</language>
         <atom:link href="http://jaydson.org/en/rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Reportagem BrazilJS 2014</title>
+            <link>http://jaydson.org/reportagem-braziljs-2014</link>
+            <description><![CDATA[<h1 id="reportagem-braziljs-2014">Reportagem BrazilJS 2014</h1>
+]]></description>
+            <pubDate>Thu, 28 Aug 2014 04:32:40 GMT</pubDate>
+            <guid>http://jaydson.org/reportagem-braziljs-2014</guid>
+        </item>
         
         <item>
             <title>Novo blog, powered by Harmonic</title>
@@ -196,24 +205,6 @@ program
 ]]></description>
             <pubDate>Wed, 18 Dec 2013 23:42:00 GMT</pubDate>
             <guid>http://jaydson.org/video-frontinpoa-processo-de-desenvolvimento-frontend-do-caos-ao-sublime</guid>
-        </item>
-        
-        <item>
-            <title>Valorize a prata da casa</title>
-            <link>http://jaydson.org/valorize-a-prata-da-casa</link>
-            <description><![CDATA[<p>Há tempos quero escrever sobre este assunto, que é algo que realmente me incomoda:<br><em>A falta de valorização da prata da casa.</em><br>O que isso quer dizer?<br><strong><em>&quot;Prata da casa&quot;</em></strong> é uma expressão que já escutei muitas vezes, em diversas situações, e que pode ser aplicada em qualquer área.<br>A expressão prata da casa remete a algo que é de casa, da região, do país, da empresa, do que for.<br>A origem desta expressão é bem antiga, de uma época onde todos tinham talheres de prata em casa, e quando não iam comer em algum restaurante, diziam &quot;Hoje vamos usar a prata da casa&quot;.<br>Um exemplo atual do uso da expressão:<br>&quot;Não precisa contratar ninguém de fora , use a prata-da-casa&quot;<br><a href="http://www.dicionarioinformal.com.br/prata-da-casa/">http://www.dicionarioinformal.com.br/prata-da-casa/</a>  </p>
-<h2 id="um-exemplo-real-">Um exemplo real:</h2>
-<p>Quando o amigo <a href="http://twitter.com/jcemer">Jean</a>, meu conterrâneo(gaúcho), subiu no palco da BrazilJS Conf 2013 para dar uma palestra, eu falei &quot;- E agora, a prata da casa, Jean Carlo!&quot;.  </p>
-<p>E é bem sobre isso que quero falar.<br>Valorizar a prata da casa não é simplesmente dar preferência a alguém, apenas por ser da mesma região, país ou empresa.  Valorizar a prata da casa é enxergar a sua volta e notar que bem do seu lado tem alguém que faz um trabalho tão bom quanto qualquer referência externa.<br>O que vejo são pessoas que não valorizam o trabalho de um colega de trabalho, simplesmente pelo fato de estar sentado ao seu lado.<br>Pessoas que precisam ouvir ou ler a opnião de alguém de fora da sua região ou país, para ai sim dar alguma credibilidade.<br>Empresas que pagam consultorias para dizer o que um funcionário teria dito sem cobrar 1 centavo a mais no salário.<br>Isto é a falta de valorização da prata da casa.<br>Voltando ao exemplo do Jean, nada mais justo do que um cara com a competência e destaque que ele tem, dar uma palestra na BrazilJS Conf, evento que acontece aqui em Porto Alegre, cidade que moramos.  </p>
-<h2 id="na-corpora-o">Na corporação</h2>
-<p>Voltando para as empresas, ponto crítico, onde isso acontece bastante, basta prestar atenção, que provavelmente em algum momento essa situação irá acontecer.<br>O exemplo clássico que citei acima, é quando uma empresa resolve contratar um terceiro para dar consultoria sobre determinado assunto.<br>Em uma empresa grande, muito provavelmente existe alguém que sabe no mínimo um pouco do assunto em questão.<br>Por que contratar um terceiro? Por que não valorizar quem já está dando o sangue pelo negócio?<br>É muito mais simples, barato, gratificante e vantajoso para ambas as partes.<br>Cansei de ver casos, onde somente depois de uma consultoria externa chegar e dizer como devia ser feito, a empresa prestou atenção e deu credibilidade a uma ideia que já vinha sendo discutida por funcionários.<br>Isso é triste.  </p>
-<h2 id="conclus-o">Conclusão</h2>
-<p>Fica aqui a minha dica, ou apenas um desabafo profissional mesmo, para as empresas:<br>Valorizem a prata da casa.<br>Uma coisa que sempre digo é: <strong><em>Ninguém é insubstituível, mas ninguém é igual.</em></strong><br>O que quero dizer com essa frase é que, obviamente a empresa vai continuar funcionando sem um determinado funcionário, mas não da mesma forma.<br>Durante minha jornada no mercado, ouvi ínumeras vezes esta frase infeliz &quot;Ninguém é insubstituível&quot;.<br>E em algum momento rebati, e desde então sigo com esse pensamento.  </p>
-<p>Continuando, não é somente nas empresas que isso acontece.<br>Preste atenção, no dia-a-dia da sua vida, isso acontece muito.  </p>
-<p>Bom, minha mensagem aqui é: Valorize o colega do lado. Valorize a pessoa do lado. Valorize o trabalho das pessoas que te cercam. Valorize o que acontece no seu bairro, na sua cidade, no seu estado, no seu país.<br>Não é questão de bairrismo, é questão de valorizar o que é bom.  </p>
-]]></description>
-            <pubDate>Tue, 03 Dec 2013 02:04:00 GMT</pubDate>
-            <guid>http://jaydson.org/valorize-a-prata-da-casa</guid>
         </item>
         
     </channel>

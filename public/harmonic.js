@@ -1362,6 +1362,21 @@ var Harmonic = function Harmonic(name) {
     return {
       "en": [{
         "layout": "post",
+        "title": "Reportagem BrazilJS 2014",
+        "date": "2014-08-28T04:32:40.109Z",
+        "comments": "true",
+        "published": "true",
+        "keywords": "",
+        "description": "",
+        "categories": [""],
+        "content": "<h1 id=\"reportagem-braziljs-2014\">Reportagem BrazilJS 2014</h1>\n",
+        "file": "./src/posts/reportagem-braziljs-2014.md",
+        "filename": "reportagem-braziljs-2014",
+        "link": "reportagem-braziljs-2014",
+        "lang": "en",
+        "default_lang": true
+      }, {
+        "layout": "post",
         "title": "Novo blog, powered by Harmonic",
         "date": "2014-07-14T02:56:47.567Z",
         "comments": "true",
@@ -3376,6 +3391,22 @@ var Harmonic = function Harmonic(name) {
         "default_lang": true
       }],
       "pt-br": [{
+        "layout": "post",
+        "title": "Reportagem BrazilJS 2014",
+        "date": "2014-08-28T04:32:40.109Z",
+        "comments": "true",
+        "published": "true",
+        "keywords": "",
+        "description": "Reportagem sobre a BrazilJS Conf 2014!",
+        "categories": ["BrazilJS"],
+        "image": "img/reportagem-braziljs-2014.png",
+        "content": "<p>Mais uma vez a repercussão da BrazilJS Conf supera barreiras.<br>Neste ano, a rede Record fez uma matéria bem bacana sobre o que rolou no evento, entrevistando palestrantes e organizadores do evento, além de capturar a essência do evento em takes de palestras e da galera fazendo networking.<br>Ainda me surpreendo com o alcance do evento.  </p>\n<iframe width=\"100%\" height=\"600\" src=\"//www.youtube.com/embed/AgZJQT1-ixg\" frameborder=\"0\" allowfullscreen></iframe>",
+        "file": "./src/posts/reportagem-braziljs-2014.md",
+        "filename": "reportagem-braziljs-2014",
+        "link": "reportagem-braziljs-2014",
+        "lang": "pt-br",
+        "default_lang": false
+      }, {
         "layout": "post",
         "title": "Novo blog, powered by Harmonic",
         "date": "2014-07-14T02:56:47.567Z",
