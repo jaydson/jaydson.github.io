@@ -31,7 +31,7 @@ Bom, a BrazilJS Conf foi um sucesso, novamente. Com muito trabalho e dedicação
 Neste ano, já palestrei mais de 10 vezes em no mínimo 7 estados diferentes no Brasil.  
 Para quem acha que palestrar é fácil, digo com propriedade, não é.  
 Para dar uma palestra, é preciso muito estudo sobre o assunto, preparação, viagem, etc.  
-Não sou só palestrante, também participei de vários eventos como expectador.  
+Não sou só palestrante, também participei de vários eventos como espectador.  
 
 Não podemos parar de estudar nunca, certo?  
 Este ano me dediquei aos estudos de [ES6](http://es6rocks.com), a nova versão do JavaScript.  
