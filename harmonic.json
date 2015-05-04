@@ -6,7 +6,7 @@
     "author": "Jaydson",
     "description": "Coisas sobre JavaScript e desenvolvimento Web",
     "bio": "Eu",
-    "template": "theme-jaydson",
+    "theme": "harmonic-theme-jaydson",
     "posts_permalink": ":title",
     "pages_permalink": "pages/:title",
     "header_tokens": [

@@ -6,13 +6,13 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Fri, 12 Sep 2014 03:23:19 GMT</pubDate>
+        <pubDate>Mon, 04 May 2015 02:33:14 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>A falácia do não ter tempo</title>
-            <link>http://jaydson.org/a-falacia-do-nao-ter-tempo</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<p>Não caia nessa armadilha cômoda de dizer que não tem tempo pra nada.<br>Exemplos:<br><em>&quot;Não vi teu email ainda, pois estou com a caixa cheia e não tive tempo&quot;</em>.<br><em>&quot;Não fiz aquela viagem, pois estou muito aterefado no trabalho e não tive tempo&quot;</em>.<br><em>&quot;Hoje não vou almoçar, pois estou sem tempo!&quot;</em>.<br><em>&quot;Não posso me divertir pois estou sem tempo!&quot;</em>.  </p>
 <p><strong>BULLSHIT</strong>!<br>Eu poderia citar 1000 frases que já ouvi de pessoas que dizem que não tem tempo pra nada.<br>Eu mesmo já cheguei a cair nessa armadilha, mas hoje estou curado, e quero compartilhar com vocês essa minha experiência.  </p>
 <h2 id="-n-o-ter-tempo-bullshit">&quot;Não ter tempo&quot; é bullshit</h2>
@@ -32,21 +32,21 @@
 <p>Se o teu perfil bate com esse cara que não tem tempo, tente dar uma repensada nas tuas tarefas.<br>Eu consegui, qualquer um consegue, basta querer.<br>O ano ainda não acabou, ainda posso fazer o dobro do que fiz até agora, sem loucura, e sem abrir mão do lazer.<br>Tente não procrastinar tanto, as vezes acabamos deixando uma coisa pra depois, sem problemas, mas quando tudo fica pra depois, aí fica difícil.  </p>
 ]]></description>
             <pubDate>Wed, 10 Sep 2014 03:14:37 GMT</pubDate>
-            <guid>http://jaydson.org/a-falacia-do-nao-ter-tempo</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
         <item>
             <title>Reportagem BrazilJS 2014</title>
-            <link>http://jaydson.org/reportagem-braziljs-2014</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<p>Mais uma vez a repercussão da BrazilJS Conf supera barreiras.<br>Neste ano, a rede Record fez uma matéria bem bacana sobre o que rolou no evento, entrevistando palestrantes e organizadores do evento, além de capturar a essência do evento em takes de palestras e da galera fazendo networking.<br>Ainda me surpreendo com o alcance do evento.  </p>
 <iframe width="100%" height="600" src="//www.youtube.com/embed/AgZJQT1-ixg" frameborder="0" allowfullscreen></iframe>]]></description>
             <pubDate>Thu, 28 Aug 2014 04:32:40 GMT</pubDate>
-            <guid>http://jaydson.org/reportagem-braziljs-2014</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
         <item>
             <title>Novo blog, powered by Harmonic</title>
-            <link>http://jaydson.org/novo-blog-powered-by-harmonic</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<p>Galera, é com muita satisfação que hoje anuncio uma mudança aqui no Blog.<br>Ao longo desses 6 anos que o mantenho, já fiz diversas mudanças, a última vez por exemplo, foi a migração do Wordpress para o Octopress (relatado aqui: <a href="http://jaydson.org/migrando-para-octopress/">http://jaydson.org/migrando-para-octopress/</a>).<br>Desta vez a satisfação é reforçada, pois estou utilizando uma solução criada por mim, para gerar sites estáticos.  </p>
 <h2 id="harmonic">Harmonic</h2>
 <p>Tenho estudado bastante sobre <a href="http://es6rocks.com">ES6</a> nos últimos meses, inclusive dei <a href="https://speakerdeck.com/jaydson/javascript-do-futuro-no-presente">algumas</a> <a href="https://speakerdeck.com/jaydson/es6-rocks">palestras</a> sobre  o assunto, e acabei mergulhando tanto, que alguns projetos nasceram.<br>Um destes projetos é o <a href="https://github.com/es6rocks/harmonic">Harmonic</a>, um gerador de sites estáticos feito em <a href="http://nodejs.org">node</a>, utilizando algumas features de ES6.<br>O projeto ainda está em alpha, mas como voces podem ver, o meu blog já está rodando com ele, assim como o site do <a href="http://es6rocks.com">ES6Rocks.com</a>.  </p>
@@ -61,20 +61,20 @@
 <p>É isso galera, espero que tenham gostado tanto do novo blog quanto do Harmonic.  </p>
 ]]></description>
             <pubDate>Mon, 14 Jul 2014 02:56:47 GMT</pubDate>
-            <guid>http://jaydson.org/novo-blog-powered-by-harmonic</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
         <item>
             <title>ES6 Rocks - RSJS 2014</title>
-            <link>http://jaydson.org/es6rocks-rsjs-2014</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<script async class="speakerdeck-embed" data-id="8a6b34f0c01401316ec20e2d98b4d7d5" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>]]></description>
             <pubDate>Sat, 17 May 2014 17:26:00 GMT</pubDate>
-            <guid>http://jaydson.org/es6rocks-rsjs-2014</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
         <item>
             <title>Rodando Harmony no Node</title>
-            <link>http://jaydson.org/rodando-harmony-no-node</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<p>Nos últimos meses tenho estudado e estou fazendo alguns experimentos com <a href="http://wiki.ecmascript.org/doku.php?id=harmony:harmony">ES6</a> tanto no browser quanto no <a href="http://nodejs.org/">Node</a>.<br>Para um dos testes, quero rodar via linha de comando um programa escrito em node.<br>Para rodar um código no Node usando a nova especificação, é preciso passar a flag <em>--harmony</em> para que o node rode com tal suporte.<br>É bem fácil:  </p>
 <pre><code>node --harmony --use-strict myfile.js
 </code></pre><p>Para apenas rodar o código, isto basta.<br>Mas para casos onde se está criando uma ferramenta de linha de comando por exemplo, isto não é suficiente e não atende a real necessidade.<br>Procurei alternativas, e a que me pareceu mais simples (e funciona) é a <a href="http://superuser.com/questions/691133/always-run-node-with-the-harmony-flag">seguinte</a>:<br>Criar um shell script que inicia o node com a flag apropriada, no caso <em>--harmony</em>.<br>No meu caso estou no Ubuntu, e o passo-a-passo é mais ou menos este:</p>
@@ -107,12 +107,12 @@ program
 </code></pre><p>Feito!</p>
 ]]></description>
             <pubDate>Tue, 15 Apr 2014 03:48:00 GMT</pubDate>
-            <guid>http://jaydson.org/rodando-harmony-no-node</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
         <item>
             <title>Coletânea-FrontEnd</title>
-            <link>http://jaydson.org/coletanea-frontend</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<p>Há tempos penso em escrever um livro.<br>Tantas ideias que não viram posts, tantas coisas novas que surgem quase que diariamente, tantos experimentos e tantas coisas que acabam ficando restritas no trabalho.<br>Escrever um livro é uma ótima oportunidade de parar e colocar literalmente isto no papel.<br>Como primeira experiência, tive a oportunidade de fazer parte de um excelente time de autores, que convidados pelo mestre <a href="https://twitter.com/sergio_caelum">Sérgio Lopes</a>, realizou uma coletânea frontend com um conteúdo muito bacana.<br>Pessoalmente, estou muito feliz de fazer parte deste projeto, que tenho certeza que será um sucesso!  </p>
 <p>Enfim pessoal, esta pequena introdução tem como objetivo divulgar o livro Coletânea Front-End, que como o próprio sub-título diz, é uma antologia da comunidade front-end brasileira.<br>Não é apenas porque faço parte do projeto, mas realmente o livro ficou demais!<br>Pude acompanhar o processo de escrita de cada capítulo, de todos os autores, e garanto que o conteúdo é de qualidade.<br>Além disso, o editor chefe é o próprio Sérgio, o que já passa toda a credibilidade.<br>Cada erro nosso, o Sérgio estava lá pra corrigir, além de dar ótimas dicas e sugestões.  </p>
 <p><a href="https://casadocodigo.refersion.com/l/9e8.5675"><img src="/img/coletanea-frontend.png" alt="Coletânea Front-End"></a>  </p>
@@ -126,22 +126,22 @@ program
 <p>É isso galera, espero que gostem da iniciativa, e claro, comprem o livro :)  </p>
 ]]></description>
             <pubDate>Tue, 01 Apr 2014 00:12:00 GMT</pubDate>
-            <guid>http://jaydson.org/coletanea-frontend</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
         <item>
             <title>Os 10 melhores desenvolvedores FrontEnd de 2013</title>
-            <link>http://jaydson.org/os-10-melhores-desenvolvedores-frontend-de-2013</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<p>O <a href="http://imasters.com.br">iMasters</a> fez um trabalho bem bacana, engajando a comunidade a escolher os principais destaques das comunidades de desenvolvimento do Brasil.<br>Falando especificamente da lista de FrontEnd, me senti honrado em estar entre os top 10, juntamente com amigos e profissionais que admiro.<br>Além disso, é graficante estar na mesma lista com pessoas que vi crescer, e que de alguma maneira influenciei ou fui influenciado.<br>Obviamente, a lista não reflete de fato quem são os &quot;melhores&quot; no FrontEnd do Brasil, mas sim quem são os mais admirados, mais expostos, ou que de alguma maneira influenciaram positivamente as pessoas.<br>Medir os &quot;melhores&quot; não é uma tarefa fácil, e não vejo um real motivo de fazer tal competição.<br>Que esta iniciativa se consolide, e traga novos nomes em 2014!<br>Ah, e claro, obrigado por terem me indicado :)</p>
 <p>Veja a lista completa:<br><a href="http://imasters.com.br/desenvolvimento/melhores-de-2013-front-end/">http://imasters.com.br/desenvolvimento/melhores-de-2013-front-end/</a>  </p>
 ]]></description>
             <pubDate>Mon, 31 Mar 2014 23:28:00 GMT</pubDate>
-            <guid>http://jaydson.org/os-10-melhores-desenvolvedores-frontend-de-2013</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
         <item>
             <title>Além do responsive design - Palestra do Sérgio Lopes</title>
-            <link>http://jaydson.org/alem-do-responsive-design-palestra-sergio-lopes</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<p>Ano passado(2013) fui em muitos eventos de FrontEnd, e obviamente, assisti muitas palestras.<br>Um destes eventos foi o FronInSampa, que inclusive relatei aqui no blog: <a href="http://jaydson.org/frontinsampa-2013-inferno-lea-html5/">http://jaydson.org/frontinsampa-2013-inferno-lea-html5/</a>.  </p>
 <p>Sem dúvida, uma das melhores palestras que assisti em 2013, foi a do <a href="https://twitter.com/sergio_caelum">Sérgio Lopes</a>, sobre responsive web design.<br>O pessoal do FrontInSampa liberou o vídeo da palestra, então pare o que estiver fazendo e assista, ok?  </p>
 <iframe width="100%" height="500" src="//www.youtube.com/embed/bJdFqCnxmVY" frameborder="0" allowfullscreen></iframe>  
@@ -150,12 +150,12 @@ program
 <p><iframe src="http://www.slideshare.net/slideshow/embed_code/26195069" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/caelumdev/alm-do-responsive-design-a-mudana-de-paradigma-do-design-adaptativo-e-os-mltiplos-dispositivos" title="Além do responsive design: a mudança de paradigma do design adaptativo e os múltiplos dispositivos. " target="_blank">Além do responsive design: a mudança de paradigma do design adaptativo e os múltiplos dispositivos. </a> </strong> from <strong><a href="http://www.slideshare.net/caelumdev" target="_blank">Caelum</a></strong> </div></p>
 ]]></description>
             <pubDate>Fri, 14 Feb 2014 00:15:00 GMT</pubDate>
-            <guid>http://jaydson.org/alem-do-responsive-design-palestra-sergio-lopes</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
         <item>
             <title>10 anos e pronto para os próximos 10</title>
-            <link>http://jaydson.org/10-anos-e-pronto-para-os-proximos-10</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<p>2014 é o ano que considero o meu décimo ano como profissional de tecnologia.<br>Abaixo vou contar um pouco da minha trajetória, e o que penso sobre o que passou e sobre o que vem pela frente.<br>Basicamente, o que vale deste post é que eu realmente gosto do que faço.<br>Sem essas de querer virar gerente, ou de dizer que cansei da vida de programar.<br>Sigo firme, cada dia mais entusiasmado com novas tecnologias, e com as coisas que faço.<br>Não tenho aquele sonho de vender côco na praia, morar em sítio, ou algo do gênero, pelo menos, não agora.  </p>
 <h2 id="early-days">Early days</h2>
 <p><img src="/img/walkman.jpg" alt="Saudade do meu Walkman :)"><br>No final dos anos 90 e início dos 2000, meu maior contato com tecnologia era o meu <a href="http://pt.wikipedia.org/wiki/Walkman">Walkman</a>.<br>Computador nessa época era apenas quando eu ia visitar meus primos mais afortunados.<br>Esperavamos ansiosos a tão aguardada 00:00 para poder entrar na Internet. A maior diversão era entrar em chats.<br>Aos poucos fui gostando da coisa, e ao mesmo tempo me frustrando, pois eu não tinha um computador em casa.<br>No ensino médio, um computador fez falta. Eu acabava sempre fazendo trabalhos com um colega, pois ele tinha internet em casa.<br>Após terminar o ensino médio, a pressão pra fazer vestibular pegou. Eu ainda não tinha ideia do que fazer, e não tinha grana para fazer alguma faculdade particular, e obviamente não passei na Federal.<br>Depois de alguns sub-empregos, um amigo de infância me fez a proposta indecente de trabalhar na empresa dele.<br>Lá eu receberia uma miséria em troca de conhecimento. Achei justo.<br>Este foi meu primeiro &quot;emprego&quot; oficial. A MR Informática, vendia e consertava computadores.<br>Em pouco tempo ali, aprendi muita coisa. Coisas que antes não faziam sentido algum na minha cabeça.<br>Hoje vejo que este meu primeiro emprego me deu uma base muito sólida, principalmente por me ensinar a correr atrás de aprender as coisas sozinho.<br>Em 1 ano, eu já dominava tudo que a loja precisava. Montava, desmontava, formatava, instalava Windows, configurava a rede, internet, etc.<br>Meu primeiro computador, montei com peças que estavam sobrando na loja. Um excelente <a href="http://pt.wikipedia.org/wiki/AMD_K6-2">K62-500</a>.  </p>
@@ -173,12 +173,12 @@ program
 <p>Um livro? Voltar a dar aulas? Quem sabe.<br>Para o alto e avante!<br><img src="/img/super-html5.jpeg" alt="Super HTML5">  </p>
 ]]></description>
             <pubDate>Fri, 17 Jan 2014 02:33:00 GMT</pubDate>
-            <guid>http://jaydson.org/10-anos-e-pronto-para-os-proximos-10</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
         <item>
             <title>Analytics do Blog em 2013</title>
-            <link>http://jaydson.org/analytics-do-blog-em-2013</link>
+            <link>http://jaydson.org/</link>
             <description><![CDATA[<p>Como de costume, gosto de compartilhar os dados do Analytics do Blog.<br>Venho fazendo isso desde 2010, e é legal ver como as coisas evoluem, mudam, etc.<br>Veja em 2010: <a href="http://www.jaydson.org/analytics-do-blog-2010/">http://www.jaydson.org/analytics-do-blog-2010/</a><br>Veja em 2011: <a href="http://www.jaydson.org/analytics-do-blog-em-2011/">http://www.jaydson.org/analytics-do-blog-em-2011/</a><br>Veja em 2012: <a href="http://www.jaydson.org/analytics-do-blog-em-2012/">http://www.jaydson.org/analytics-do-blog-em-2012/</a>  </p>
 <p>Em 2013, postei bem menos do que gostaria.<br>No total, foram <strong>23 posts</strong>, dentre eles, vários técnicos e outros nem tanto.<br>Venho baixando a média, pois em 2011 foram 40 posts, 2012 um pouco mais de 30 e agora 23.<br>Cheguei a ousar ter como objetivo escrever 100 posts em 2013. Fiquei bem longe disso.<br>Quem sabe consigo escrever mais este ano.<br>Uma coisa legal é que em 2013 comecei a escrever coisas não técnicas, mas relacionadas a tecnologia, e a aceitação foi bem boa. Tanto que o post <a href="http://jaydson.org/cultura-maldita-no-desenvolvimento-de-software/">Cultura Maldita no Desenvolvimento de Software</a> foi o post mais acessado do Blog.  </p>
 <p>O total de pageviews não chegou a <strong>45.000</strong>, e isso se deve aos poucos posts.<br>De 2011 para 2012 esse número tinha crescido <strong>40%</strong>, agora ficou na média.<br>O total de unique visitors passou de <strong>28K</strong>.<br>Média de acessos diários:  <strong>123 acessos</strong>.<br>Média mensal: <strong>3.750 acessos</strong>.  </p>
@@ -225,7 +225,7 @@ program
 <p>É isso pessoal!  </p>
 ]]></description>
             <pubDate>Mon, 06 Jan 2014 03:20:00 GMT</pubDate>
-            <guid>http://jaydson.org/analytics-do-blog-em-2013</guid>
+            <guid>http://jaydson.org/</guid>
         </item>
         
     </channel>

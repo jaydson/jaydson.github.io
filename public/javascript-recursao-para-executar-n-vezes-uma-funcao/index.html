@@ -70,8 +70,8 @@
 	<article class="postContent">
 		<p>Para quem gosta de desafios de programação em Javascript, encare esse post como um, senão encare apenas como uma dica mesmo.<br>Se encarou como desafio, tente implementar uma solução diferente(melhor?) para o problema:  </p>
 <p>Criar uma função genérica (leia-se reuzável) que execute uma determinada função X vezes em Y milisegundos.<br>Sacaram a ideia?<br>Imaginem uma aplicação onde precisamos chamar diversas vezes uma função em um determinado intervalo.<br>Este é o desafio, porém o legal é fazer isso em uma única função e sem usar variáveis auxiliares.  </p>
-<p>
-Minha implementação segue abaixo:  </p>
+
+<p>Minha implementação segue abaixo:  </p>
 <pre><code class="lang-javascript">function _(i,m,callback){
      setTimeout(function(){
        return i &gt; 1 ? _(--i,m,callback) : false;
