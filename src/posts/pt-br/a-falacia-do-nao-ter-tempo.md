@@ -4,9 +4,10 @@ title: A falácia do não ter tempo
 date: 2014-09-10T03:14:37.883Z
 comments: true
 published: true
-keywords:
-description:
+keywords: Off-topic, Devaneios
+description: Não caia nessa armadilha cômoda de dizer que não tem tempo pra nada
 categories: Off-topic, Devaneios
+image: img/falacia-nao-ter-tempo.jpg
 ---
 Não caia nessa armadilha cômoda de dizer que não tem tempo pra nada.  
 Exemplos:  

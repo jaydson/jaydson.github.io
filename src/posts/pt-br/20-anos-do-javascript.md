@@ -5,8 +5,9 @@ date: 2015-05-20T02:27:47.614Z
 comments: true
 published: true
 keywords: javascript
-description:
+description: Em maio de 1995 nascia a linguagem de programação que hoje podemos chamar de linguagem ubíqua
 categories: javascript
+image: img/20-anos-js.jpg
 ---
 _Texto originalmente postado no blog do Rafael Kuhn, CTO do [Terra](http://terra.com.br).  
 [http://tecnologia.terra.com.br/na-terra-da-tecnologia/blog/2015/05/19/20-anos-de-javascript-a-chegada-a-maturidade/](http://tecnologia.terra.com.br/na-terra-da-tecnologia/blog/2015/05/19/20-anos-de-javascript-a-chegada-a-maturidade/)_  
