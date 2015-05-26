@@ -6,9 +6,18 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Fri, 22 May 2015 03:38:12 GMT</pubDate>
+        <pubDate>Tue, 26 May 2015 00:56:23 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Entrevista JSConf Argentina 2014</title>
+            <link>http://jaydson.org/entrevista-jsconf-argentina-2014</link>
+            <description><![CDATA[<p>No <a href="/es6rocks-palestra-na-jsconf-argentina">post anterior</a> falei sobre minha palestra na JSConf Argentina.<br>Além do vídeo da palestra, rolou também uma pequena entrevista bem bacana feita pelo pessoal da organização.<br>Na entrevista falo um pouco sobre o que foi a minha palestra, e claro, sobre JavaScript :)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xzTfi7Wz6ac" frameborder="0" allowfullscreen></iframe>]]></description>
+            <pubDate>Tue, 26 May 2015 00:47:37 GMT</pubDate>
+            <guid>http://jaydson.org/entrevista-jsconf-argentina-2014</guid>
+        </item>
         
         <item>
             <title>ES6Rocks - Palestra na JSConf Argentina</title>
@@ -161,20 +170,6 @@ program
 ]]></description>
             <pubDate>Mon, 31 Mar 2014 23:28:00 GMT</pubDate>
             <guid>http://jaydson.org/os-10-melhores-desenvolvedores-frontend-de-2013</guid>
-        </item>
-        
-        <item>
-            <title>Além do responsive design - Palestra do Sérgio Lopes</title>
-            <link>http://jaydson.org/alem-do-responsive-design-palestra-sergio-lopes</link>
-            <description><![CDATA[<p>Ano passado(2013) fui em muitos eventos de FrontEnd, e obviamente, assisti muitas palestras.<br>Um destes eventos foi o FronInSampa, que inclusive relatei aqui no blog: <a href="http://jaydson.org/frontinsampa-2013-inferno-lea-html5/">http://jaydson.org/frontinsampa-2013-inferno-lea-html5/</a>.  </p>
-<p>Sem dúvida, uma das melhores palestras que assisti em 2013, foi a do <a href="https://twitter.com/sergio_caelum">Sérgio Lopes</a>, sobre responsive web design.<br>O pessoal do FrontInSampa liberou o vídeo da palestra, então pare o que estiver fazendo e assista, ok?  </p>
-<iframe width="100%" height="500" src="//www.youtube.com/embed/bJdFqCnxmVY" frameborder="0" allowfullscreen></iframe>  
-
-<p>Slides:  </p>
-<p><iframe src="http://www.slideshare.net/slideshow/embed_code/26195069" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/caelumdev/alm-do-responsive-design-a-mudana-de-paradigma-do-design-adaptativo-e-os-mltiplos-dispositivos" title="Além do responsive design: a mudança de paradigma do design adaptativo e os múltiplos dispositivos. " target="_blank">Além do responsive design: a mudança de paradigma do design adaptativo e os múltiplos dispositivos. </a> </strong> from <strong><a href="http://www.slideshare.net/caelumdev" target="_blank">Caelum</a></strong> </div></p>
-]]></description>
-            <pubDate>Fri, 14 Feb 2014 00:15:00 GMT</pubDate>
-            <guid>http://jaydson.org/alem-do-responsive-design-palestra-sergio-lopes</guid>
         </item>
         
     </channel>
