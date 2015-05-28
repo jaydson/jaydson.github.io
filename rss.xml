@@ -6,14 +6,14 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Thu, 28 May 2015 14:16:57 GMT</pubDate>
+        <pubDate>Thu, 28 May 2015 20:08:02 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>API's REST em 1 minuto</title>
+            <title>APIs REST em 1 minuto</title>
             <link>http://jaydson.org/api-s-rest-em-1-minuto</link>
-            <description><![CDATA[<p>No último <a href="http://rsjs.org">RSJS</a> tive a oportunidade de assistir a palestra <a href="http://dclucas.github.io/prez-harvesterjs">&quot;Ligthweight API&#39;s with HarvesterJS&quot;</a> do meu ex-professor <a href="https://twitter.com/diogoclucas">Diogo Lucas</a>.<br>Em poucos minutos de palestra eu já consegui identificar várias aplicações que fiz no passado, que poderiam ser totalmente reescritas de uma maneira muito mais simples com o <a href="https://github.com/agco/harvesterjs">HarvesterJS</a>.<br>O HarvesterJS é originalmente um fork do projeto <a href="http://fortunejs.com/">FortuneJS</a>, um framework para criar API&#39;s <a href="http://en.wikipedia.org/wiki/Representational_state_transfer">REST</a> baseadas na spec <a href="http://jsonapi.org">JSONAPI</a>.  </p>
+            <description><![CDATA[<p>No último <a href="http://rsjs.org">RSJS</a> tive a oportunidade de assistir a palestra <a href="http://dclucas.github.io/prez-harvesterjs">&quot;Ligthweight APIs with HarvesterJS&quot;</a> do meu ex-professor <a href="https://twitter.com/diogoclucas">Diogo Lucas</a>.<br>Em poucos minutos de palestra eu já consegui identificar várias aplicações que fiz no passado, que poderiam ser totalmente reescritas de uma maneira muito mais simples com o <a href="https://github.com/agco/harvesterjs">HarvesterJS</a>.<br>O HarvesterJS é originalmente um fork do projeto <a href="http://fortunejs.com/">FortuneJS</a>, um framework para criar APIs <a href="http://en.wikipedia.org/wiki/Representational_state_transfer">REST</a> baseadas na spec <a href="http://jsonapi.org">JSONAPI</a>.  </p>
 <p>O objetivo do Harvester foca em manter uma API fiel à JSONAPI spec, com suporte específico ao <a href="http://docs.mongodb.org/">MongoDB</a> (além de resolver alguns problemas de escalabilidade).<br>O projeto está bem ativo e é mantido pelo pessoal da <a href="http://www.agcocorp.com/">AGCO</a>, uma empresa do ramo da agricultura.  </p>
 <p>Ok ok, <em>talk is cheap</em>.<br>O título do post é bem sério. É possível criar uma API REST em 1 minuto com o Harvester.<br>Supondo que o seu ambiente já tenha <a href="http://nodejs.org">Node.js</a> e MongoDB, o resto é super fácil, mesmo.<br>Digamos que a sua API precisa expor uma entidade &quot;artist&quot;.<br>Por expor entenda que a API deve disponibilizar métodos <a href="http://en.wikipedia.org/wiki/Create,_read,_update_and_delete">CRUD</a> para as aplicações.  </p>
 <pre><code>// app.js
@@ -62,7 +62,7 @@ Ainda é possível criar relações de maneira bem simples.<br>Digamos que um ar
 <pre><code>GET  /artists/555d5c701eb2d1d033f3b704/influences
 </code></pre><p>O retorno desta chamada será baseado nas relações previamente armazenadas, ou seja, se a aplicação disse que determinado artista possui 2 influências, um array de 2 artistas será retornado.  </p>
 <h2 id="conclus-o">Conclusão</h2>
-<p>Este foi um post introdutório com objetivo de mostrar como é fácil criar API&#39;s REST com o Harvester.<br>Além da facilidade, o código necessário para escrever API&#39;s fica muito fácil de manutenir e evoluir.<br>Eu mesmo reescrevi uma aplicação que tinha certamente mais de 1500 linhas em pouco mais de 10 linhas com o Harvester.  </p>
+<p>Este foi um post introdutório com objetivo de mostrar como é fácil criar APIs REST com o Harvester.<br>Além da facilidade, o código necessário para escrever APIs fica muito fácil de manutenir e evoluir.<br>Eu mesmo reescrevi uma aplicação que tinha certamente mais de 1500 linhas em pouco mais de 10 linhas com o Harvester.  </p>
 <p><blockquote class="twitter-tweet" lang="en"><p lang="pt" dir="ltr">Ontem reescrevi em 10 linhas uma aplicação que fiz há um ano atrás com umas 1500. Sério. &lt;3 HarvesterJS //cc <a href="https://twitter.com/diogoclucas">@diogoclucas</a></p>&mdash; Jaydson Gomes (@jaydson) <a href="https://twitter.com/jaydson/status/603541170426290178">May 27, 2015</a></blockquote></p>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 É isso pessoal, para maiores informações sobre o Harvester, vasculhem o Github do projeto (ainda está com pouca documentação, mas em breve eles devem resolver esse problema).  </p>
