@@ -6,7 +6,7 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Wed, 27 May 2015 22:29:26 GMT</pubDate>
+        <pubDate>Thu, 28 May 2015 02:25:12 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
         
@@ -58,7 +58,7 @@ Ainda é possível criar relações de maneira bem simples.<br>Digamos que um ar
     influences : [&#39;artist&#39;]
 })
 .listen(1337);
-</code></pre><p>Com esta simples aleteração nossa API passa a suportar relações:  </p>
+</code></pre><p>Com esta simples alteração nossa API passa a suportar relações:  </p>
 <pre><code>GET  /artists/555d5c701eb2d1d033f3b704/influences
 </code></pre><p>O retorno desta chamada será baseado nas relações previamente armazenadas, ou seja, se a aplicação disse que determinado artista possui 2 influências, um array de 2 artistas será retornado.  </p>
 <h2 id="conclus-o">Conclusão</h2>
