@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API's REST em 1 minuto
+title: APIs REST em 1 minuto
 date: 2015-05-27T21:30:20.294Z
 comments: true
 published: true
@@ -9,9 +9,9 @@ description: Post onde conto como criei uma API REST em 1 minuto
 categories: Node.js, REST, API
 image: img/rest-1-minute.jpg
 ---
-No último [RSJS](http://rsjs.org) tive a oportunidade de assistir a palestra ["Ligthweight API's with HarvesterJS"](http://dclucas.github.io/prez-harvesterjs) do meu ex-professor [Diogo Lucas](https://twitter.com/diogoclucas).  
+No último [RSJS](http://rsjs.org) tive a oportunidade de assistir a palestra ["Ligthweight APIs with HarvesterJS"](http://dclucas.github.io/prez-harvesterjs) do meu ex-professor [Diogo Lucas](https://twitter.com/diogoclucas).  
 Em poucos minutos de palestra eu já consegui identificar várias aplicações que fiz no passado, que poderiam ser totalmente reescritas de uma maneira muito mais simples com o [HarvesterJS](https://github.com/agco/harvesterjs).  
-O HarvesterJS é originalmente um fork do projeto [FortuneJS](http://fortunejs.com/), um framework para criar API's [REST](http://en.wikipedia.org/wiki/Representational_state_transfer) baseadas na spec [JSONAPI](http://jsonapi.org).  
+O HarvesterJS é originalmente um fork do projeto [FortuneJS](http://fortunejs.com/), um framework para criar APIs [REST](http://en.wikipedia.org/wiki/Representational_state_transfer) baseadas na spec [JSONAPI](http://jsonapi.org).  
 
 O objetivo do Harvester foca em manter uma API fiel à JSONAPI spec, com suporte específico ao [MongoDB](http://docs.mongodb.org/) (além de resolver alguns problemas de escalabilidade).  
 O projeto está bem ativo e é mantido pelo pessoal da [AGCO](http://www.agcocorp.com/), uma empresa do ramo da agricultura.  
@@ -92,8 +92,8 @@ GET  /artists/555d5c701eb2d1d033f3b704/influences
 O retorno desta chamada será baseado nas relações previamente armazenadas, ou seja, se a aplicação disse que determinado artista possui 2 influências, um array de 2 artistas será retornado.  
 
 ## Conclusão
-Este foi um post introdutório com objetivo de mostrar como é fácil criar API's REST com o Harvester.  
-Além da facilidade, o código necessário para escrever API's fica muito fácil de manutenir e evoluir.  
+Este foi um post introdutório com objetivo de mostrar como é fácil criar APIs REST com o Harvester.  
+Além da facilidade, o código necessário para escrever APIs fica muito fácil de manutenir e evoluir.  
 Eu mesmo reescrevi uma aplicação que tinha certamente mais de 1500 linhas em pouco mais de 10 linhas com o Harvester.  
 <blockquote class="twitter-tweet" lang="en"><p lang="pt" dir="ltr">Ontem reescrevi em 10 linhas uma aplicação que fiz há um ano atrás com umas 1500. Sério. &lt;3 HarvesterJS //cc <a href="https://twitter.com/diogoclucas">@diogoclucas</a></p>&mdash; Jaydson Gomes (@jaydson) <a href="https://twitter.com/jaydson/status/603541170426290178">May 27, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
