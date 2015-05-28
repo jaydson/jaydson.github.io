@@ -85,7 +85,7 @@ app.resource('artist', {
 })
 .listen(1337);
 ```  
-Com esta simples aleteração nossa API passa a suportar relações:  
+Com esta simples alteração nossa API passa a suportar relações:  
 ```
 GET  /artists/555d5c701eb2d1d033f3b704/influences
 ```
