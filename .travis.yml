@@ -9,7 +9,7 @@ branches:
 script: >
   npm install -g harmonic &&
   harmonic build
-  git clone --branch=master https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy &&
+  git clone https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy &&
   cp public/* -r /tmp/deploy &&
   cd /tmp/deploy &&
   git add . &&
