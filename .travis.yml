@@ -9,3 +9,4 @@ branches:
 script: >
   npm install -g harmonic &&
   harmonic build
+
