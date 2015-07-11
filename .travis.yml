@@ -8,7 +8,7 @@ branches:
 script: >
   npm install -g harmonic &&
   harmonic build &&
-  git clone --depth=1 --branch=master https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy &&
+  git clone --depth=1 --branch=master git$GH_TOKEN@github.com:jaydson/jaydson.github.io.git /tmp/deploy &&
   cp public/* -r /tmp/deploy &&
   cd /tmp/deploy &&
   git add . &&
@@ -18,4 +18,4 @@ script: >
   git push origin HEAD
 env:
   global:
-    secure: WrP2X/7dKAYH9/JLx88lxkFs4OolVC90adLU/oyMS8GJICNY68/wEwfDw+v0FN5eZi0yUi3vAiLJAzLyycMppjJtdB8UZMGhk7PgxZXifWYw3ZaTEUOCMJyzDqvKhLWQWubw9g6sbM+BiRGiswCwzySzrYHzCvIcv7BHkpLOk0o=
+      secure: WrP2X/7dKAYH9/JLx88lxkFs4OolVC90adLU/oyMS8GJICNY68/wEwfDw+v0FN5eZi0yUi3vAiLJAzLyycMppjJtdB8UZMGhk7PgxZXifWYw3ZaTEUOCMJyzDqvKhLWQWubw9g6sbM+BiRGiswCwzySzrYHzCvIcv7BHkpLOk0o=
