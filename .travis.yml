@@ -9,11 +9,11 @@ branches:
 script: >
   npm install -g harmonic &&
   harmonic build
-  git clone --depth=1 --branch=master https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy &&
+  git clone --branch=master https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy &&
   cp public/* -r /tmp/deploy &&
   cd /tmp/deploy &&
   git add . &&
-  git fetch --depth=1 origin src &&
+  git fetch origin src &&
   git config user.name "Travis CI" &&
   git commit -C $TRAVIS_COMMIT &&
   git push origin HEAD
