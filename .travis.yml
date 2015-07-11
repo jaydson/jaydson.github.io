@@ -8,12 +8,12 @@ branches:
   - src
 script: >
   npm install -g harmonic &&
-  harmonic build
-  git clone https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy &&
+  harmonic build &&
+  git clone --depth=1 --branch=master https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy &&
   cp public/* -r /tmp/deploy &&
   cd /tmp/deploy &&
   git add . &&
-  git fetch origin src &&
+  git fetch --depth=1 origin src &&
   git config user.name "Travis CI" &&
   git commit -C $TRAVIS_COMMIT &&
   git push origin HEAD
