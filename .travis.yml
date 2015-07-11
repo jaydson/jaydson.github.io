@@ -1,0 +1,11 @@
+sudo: false
+language: node_js
+node_js:
+- "0.12"
+- iojs
+branches:
+  only:
+  - src
+script: >
+  npm install -g harmonic &&
+  harmonic build
