@@ -18,4 +18,4 @@ script: >
   git push origin HEAD
 env:
   global:
-      secure: WrP2X/7dKAYH9/JLx88lxkFs4OolVC90adLU/oyMS8GJICNY68/wEwfDw+v0FN5eZi0yUi3vAiLJAzLyycMppjJtdB8UZMGhk7PgxZXifWYw3ZaTEUOCMJyzDqvKhLWQWubw9g6sbM+BiRGiswCwzySzrYHzCvIcv7BHkpLOk0o=
+    secure: WrP2X/7dKAYH9/JLx88lxkFs4OolVC90adLU/oyMS8GJICNY68/wEwfDw+v0FN5eZi0yUi3vAiLJAzLyycMppjJtdB8UZMGhk7PgxZXifWYw3ZaTEUOCMJyzDqvKhLWQWubw9g6sbM+BiRGiswCwzySzrYHzCvIcv7BHkpLOk0o=
