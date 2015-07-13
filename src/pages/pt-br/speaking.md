@@ -34,6 +34,7 @@ __Cidade__: Porto Alegre, RS, Brasil
 Não sou nada exigente, mas antes de me convidar para o seu evento/conferência/etc tenha em mente o seguinte:  
 - Se o evento não for na minha cidade (Porto Alegre, RS), o evento deve custear passagens de avião e hotel  
 - Eventos em Porto Alegre ou no interior do RS devem cobrir o custo de gasolina, ou em alguns casos custear passagem de ônibus, e hotel no caso de necessidade de dormir na cidade
+- Eu não cobro cachê para palestrar, mas se quiser me pagar uma cerveja, será bem aceita :)  
 - Tenha a data e local do evento definidos para que eu possa me programar
 - Se possível, me informe o perfil dos participantes do evento (estudantes, empresários, hard-core developers, etc)
 - Se possível, me informe a estimativa de público do evento
