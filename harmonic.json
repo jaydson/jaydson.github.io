@@ -8,7 +8,7 @@
     "bio": "Eu",
     "theme": "harmonic-theme-jaydson",
     "posts_permalink": ":title",
-    "pages_permalink": "pages/:title",
+    "pages_permalink": ":language/pages/:title",
     "header_tokens": [
         "---",
         "---"
