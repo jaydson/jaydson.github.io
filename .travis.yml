@@ -6,7 +6,7 @@ branches:
   only:
   - src
 script: |
-  npm install -g harmonic && npm insall harmonic-theme-jaydson && harmonic build && git clone --depth=1 --branch=master https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy && cp public/* -r /tmp/deploy && cd /tmp/deploy && git add . && git fetch --depth=1 origin src && git config user.name "Travis CI" && git commit -C $TRAVIS_COMMIT && git push origin HEAD
+  npm install -g harmonic && npm install harmonic-theme-jaydson && harmonic build && git clone --depth=1 --branch=master https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy && cp public/* -r /tmp/deploy && cd /tmp/deploy && git add . && git fetch --depth=1 origin src && git config user.name "Travis CI" && git commit -C $TRAVIS_COMMIT && git push origin HEAD
 env:
   global:
     secure: F2J1yl/A+Vjht6bfG9feXKKwbd4xAwYJK78kn9A47gnfadTEiTTXSfa6UrcicahZdZQ1plUwbMGR/SifG7QykxWRhGEv3TfLI8bsYj1WCiEXFlKKPxEyYwDlqHgzp+UHTqKwScz9GdUNanjd8RBhbhfj6w3wNOCW1X3X4HalcIM=
