@@ -6,12 +6,13 @@ branches:
   only:
   - src
 script: >
-  rm -rf /tmp/deploy &&
   npm install -g harmonic &&
   npm install harmonic-theme-jaydson && 
+  rm -rf public &&
   harmonic build && 
+  rm -rf /tmp/deploy &&
   git clone --depth=1 --branch=master https://$GH_TOKEN@github.com/jaydson/jaydson.github.io.git /tmp/deploy && 
-  cp public/* -r /tmp/deploy && 
+  cp public/* /tmp/deploy -r && 
   cd /tmp/deploy && git add . 
   && git fetch --depth=1 origin src && 
   git config user.name "Travis CI" && 
