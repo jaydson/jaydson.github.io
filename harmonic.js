@@ -23,7 +23,7 @@ var Harmonic = (function () {
     _createClass(Harmonic, [{
         key: "getConfig",
         value: function getConfig() {
-            return {"index_posts":10,"name":"Jaydson Gomes","title":"Jaydson Gomes","domain":"http://jaydson.org","subtitle":"Powered by Harmonic","author":"Jaydson","description":"Coisas sobre JavaScript e desenvolvimento Web","bio":"Eu","theme":"harmonic-theme-jaydson","posts_permalink":":title","pages_permalink":"pages/:title","header_tokens":["---","---"],"i18n":{"default":"pt-br","languages":["pt-br"]},"mycustomdata":"wow","foo":"bar","baz":["a","b"],"title_1":"Jaydson","title_2":"Gomes"};
+            return {"index_posts":10,"name":"Jaydson Gomes","title":"Jaydson Gomes","domain":"http://jaydson.org","subtitle":"Powered by Harmonic","author":"Jaydson","description":"Coisas sobre JavaScript e desenvolvimento Web","bio":"Eu","theme":"harmonic-theme-jaydson","posts_permalink":":title","pages_permalink":":language/pages/:title","header_tokens":["---","---"],"i18n":{"default":"pt-br","languages":["pt-br"]},"mycustomdata":"wow","foo":"bar","baz":["a","b"],"title_1":"Jaydson","title_2":"Gomes"};
         }
     }, {
         key: "getPosts",
