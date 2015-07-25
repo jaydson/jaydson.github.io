@@ -15,7 +15,7 @@ Caso queira que eu palestre no seu evento, veja a seção __[Speaking](/pages/sp
 
 ## Pŕoximas palestras
 
-Evento: __[FrontInAracaju](http://www.frontinaracaju.com.br/)__  
+Evento: __[Front In Aracaju](http://www.frontinaracaju.com.br/)__  
 Data: A definir (provavelemente Novembro)  
 Local: Aracaju  
 
@@ -31,11 +31,11 @@ Evento: __[FrontEnd Carioca](http://frontendcarioca.com.br/)__
 Data: 26 de Setembro  
 Local: Rio de Janeiro
 
-Evento: __[FrontInBahia](http://www.frontinbahia.com.br/)__  
+Evento: __[Front In Bahia](http://www.frontinbahia.com.br/)__  
 Data: 03 de Outubro  
 Local: Bahia
 
-Evento: __[FrontInManaus](http://frontinmanaus.com.br/)__  
+Evento: __[Front In Manaus](http://frontinmanaus.com.br/)__  
 Data: 17 de Outubro  
 Local: Manaus  
 
