@@ -15,13 +15,13 @@ Caso queira que eu palestre no seu evento, veja a seção __[Speaking](/pages/sp
 
 ## Pŕoximas palestras
 
-Evento: __[Talk show Senac RS](http://portal.senacrs.com.br/unidades_agenda.asp?idAgenda=16979&unidade=63)__  
-Data: 15 e 16 de Julho
-Local: Porto Alegre  
-
 Evento: __[FrontInAracaju](http://www.frontinaracaju.com.br/)__  
-Data: 05 de Setembro  
+Data: A definir (provavelemente Novembro)  
 Local: Aracaju  
+
+Evento: __Terra Tech Talks (Evento interno no Terra)__  
+Data: 09 de Setembro  
+Local: Porto Alegre
 
 Evento: __[Webbr](http://conferenciaweb.w3c.br/)__  
 Data: 22 e 23 de Setembro  
@@ -34,6 +34,10 @@ Local: Rio de Janeiro
 Evento: __[FrontInBahia](http://www.frontinbahia.com.br/)__  
 Data: 03 de Outubro  
 Local: Bahia
+
+Evento: __[FrontInManaus](http://frontinmanaus.com.br/)__  
+Data: 17 de Outubro  
+Local: Manaus  
 
 
 ## Histórico de palestras
