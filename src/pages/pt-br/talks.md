@@ -17,7 +17,7 @@ Caso queira que eu palestre no seu evento, veja a seção __[Speaking](/pages/sp
 
 Evento: __[Front In Aracaju](http://www.frontinaracaju.com.br/)__  
 Data: A definir (provavelemente Novembro)  
-Local: Aracaju  
+Local: Aracaju   
 
 Evento: __Terra Tech Talks (Evento interno no Terra)__  
 Data: 09 de Setembro  
