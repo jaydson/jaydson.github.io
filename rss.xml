@@ -6,9 +6,25 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Sun, 26 Jul 2015 03:42:17 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2015 04:48:32 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Novos rumos 2015</title>
+            <link>http://jaydson.org/novos-rumos-2015</link>
+            <description><![CDATA[<p>Em 2011, ano da <a href="http://jaydson.org/brazil-js-2011-epicwin/">primeira BrazilJS</a>, eu comecei a trabalhar no Portal Terra.<br>Inclusive, fiz um post com título semelhante: <a href="http://jaydson.org/novos-rumos-2011/">Novos rumos 2011</a>.<br>Exatamente 4 anos depois estou aqui escrevendo sobre uma nova mudança, não faço mais parte do time do Portal Terra.  </p>
+<h2 id="bons-tempos-ou-the-struggle">Bons tempos ou the struggle</h2>
+<p>Foram bons tempos, onde aprendi e ensinei muito.<br>Uma empresa grande e com tantos anos de estrada acaba ficando estagnada em alguns aspectos e uma coisa que odeio é estagnação.<br>Em todos os momentos lutei bravamente para fazer o que achava melhor para a empresa crescer e evoluir.<br>Relatei aqui no Blog coisas relacionadas ao trabalho no Terra, como por exemplo o post <a href="http://jaydson.org/cultura-maldita-no-desenvolvimento-de-software/">&quot;Cultura maldita no desenvolvimento de software&quot;</a>, que por sinal é o meu post mais acessado ever.<br>Neste post eu levanto os sintomas desta Cultura e tento guiar a um caminho de extermínio da tal maldição.<br>Outro post relacionado é o <a href="http://jaydson.org/valorize-a-prata-da-casa/">&quot;Valorize a prata da casa&quot;</a>, onde falo sobre a falta de valorização de profissionais.<br>Também relatei em forma de post e de palestra o histórico do processo de desenvolvimento front-end: <a href="http://jaydson.org/processo-de-desenvolvimento-frontend-do-caos-ao-sublime/">&quot;Processo de Desenvolvimento FrontEnd - Do caos ao Sublime&quot;</a>.<br>Nesta palestra eu falo como mudamos radicalmente o processo de desenvolvimento front-end no Terra. Foram meses de trabalho e estudo e saio do Terra com a sensação de missão cumprida neste quesito.<br>Recentemente fiz um post sobre como estava o nosso <a href="http://jaydson.org/processo-front-end-no-terra/">processo front-end</a> e este post teve uma boa repercussão, inclusive com um <a href="http://tableless.com.br/processo-front-end-na-locaweb/">&quot;post resposta&quot;</a> do amigo <a href="https://twitter.com/diegoeis">Diego Eis</a>, no <a href="http://tableless.com.br/">Tableless</a>.<br>Neste post eu basicamente listei tudo que estava sendo feito até o momento em relação a front-end no Terra.  </p>
+<h2 id="multithreading">Multithreading</h2>
+<p>Eu sou um cara insatisfeito por natureza.
+O fato de trabalhar em uma grande empresa nunca foi suficiente.<br>Como voces sabem, eu sou organizador da maior conferência JavaScript do mundo, e acreditem, organizar um evento deste porte consome 1 ano inteiro de trabalho.<br>Além disso, eu sou apaixonado pelo que faço. Adoro programar e criar coisas.<br>Desde sempre eu sou envolvido com a comunidade open-source.<br>Durante este tempo no Terra, em nenhum momento parei de fazer o que fazia antes, muito pelo contrário.<br>Há uns 2 anos, abri uma empresa junto com o <a href="http://twitter.com/felipenmoura">Felipe Moura</a>, somos primos e sócios.  </p>
+<h2 id="nascweb">NascWeb</h2>
+<p>A NascWeb é a empresa por trás de eventos como a BrazilJS Conf, RSJS, FrontInPoa e de outras coisas que estão por vir.<br>Este será o meu foco agora, portanto, não estou à procura de um novo emprego ;)<br>Aguardem novidades em breve!    </p>
+]]></description>
+            <pubDate>Wed, 12 Aug 2015 03:31:59 GMT</pubDate>
+            <guid>http://jaydson.org/novos-rumos-2015</guid>
+        </item>
         
         <item>
             <title>Processo front-end no Terra</title>
@@ -62,7 +78,7 @@ O nosso CI server roda 2 tasks do Grunt: <code>ci-validate</code> e <code>ci-bui
 <p>Na última semana, <a href="https://brendaneich.com">Brendan Eich</a>, o criador do <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, <a href="https://brendaneich.com/2015/06/from-asm-js-to-webassembly">anunciou</a> o <a href="https://github.com/WebAssembly">WebAssembly</a>.<br>O WebAssembly, ou apenas <em>&quot;wasm&quot;</em> é um novo formato binário para a Web.<br>O <a href="https://twitter.com/_ericelliott">Eric Elliot</a> <a href="https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6">definou</a> muito bem o que é o WebAssembly em 4 simples itens:  </p>
 <ul>
 <li><strong><em>WebAssembly é uma melhoria para o JavaScript</em></strong><br><em>Uma maneira de implementar coisas críticas para performance em wasm e usa-las com JavaScript</em></li>
-<li><strong><em>WebAssembly é uma nova linguagem</em></strong><br><em>Código wasm define um <a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">AST</a> representado em um formato binário</em></li>
+<li><strong><em>WebAssembly é uma nova linguagem</em></strong><br>_Código wasm define um <a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">AST</a> representado em um formato binário_</li>
 <li><strong><em>WebAssembly é uma melhoria para os Browsers</em></strong><br><em>Os Browsers entenderão esse formato binário, e na maioria dos casos isso será mais rápido</em></li>
 <li><strong><em>WebAssembly é uma forma de suportar outras linguagens na plataforma Web</em></strong><br><em>Outras linguagens poderão compilar para wasm e rodar no navegador como binário first-class</em><br><br></li>
 </ul>
@@ -239,14 +255,6 @@ Ainda é possível criar relações de maneira bem simples.<br>Digamos que um ar
 ]]></description>
             <pubDate>Mon, 14 Jul 2014 02:56:47 GMT</pubDate>
             <guid>http://jaydson.org/novo-blog-powered-by-harmonic</guid>
-        </item>
-        
-        <item>
-            <title>ES6 Rocks - RSJS 2014</title>
-            <link>http://jaydson.org/es6rocks-rsjs-2014</link>
-            <description><![CDATA[<script async class="speakerdeck-embed" data-id="8a6b34f0c01401316ec20e2d98b4d7d5" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>]]></description>
-            <pubDate>Sat, 17 May 2014 17:26:00 GMT</pubDate>
-            <guid>http://jaydson.org/es6rocks-rsjs-2014</guid>
         </item>
         
     </channel>
