@@ -22,8 +22,8 @@ Veja algumas das palestras que já apresentei por aí na seção [Talks](/pages/
 
 ## Informações básicas
 __Nome__: Jaydson Gomes  
-__Empresa__: Terra  
-__Cargo__: Desenvolvedor de Software Sênior  
+__Empresa__: NascWeb  
+__Cargo__: Desenvolvedor de Software  
 __Twitter__: [@jaydson](https://twitter.com/jaydson)  
 __Github__: [@jaydson](https://github.com/jaydson)  
 __Blog__: [http://jaydson.org](http://jaydson.org)  
@@ -47,7 +47,6 @@ Não sou nada exigente, mas antes de me convidar para o seu evento/conferência/
 Jaydson Gomes tem +de 10 anos de experiência em desenvolvimento __Web__.  
 ​É desenvolvedor de software especializado em __JavaScript__, linguagem que é uma de suas paixões.  
 ​É curador e idealizador da ​__[BrazilJS Conf](http://braziljs.com.br/)__, uma das maiores conferências do mundo sobre a linguagem __JavaScript__.  
-​Trabalha atualmente no ​__[Terra](http://terra.com.br)__, um dos principais portais de notícias da América Latina, criando ferramentas e API’s JavaScript e pesquisando novas tecnologias, como __HTML5__ e todo o seu guarda-chuva, __Node.js__ e, é claro, JavaScript.  
 É criador do ​projeto __[JSRocks](http://jsrocks.org)__, um site dedicado a disseminar informações sobre a nova especificação do JavaScript, além de reunir conteúdo de qualidade com curadoria especializada.  
 ​Jaydson é entusiasta open-source e tem apresentado diversas palestras ao longo dos últimos anos, em sua grande maioria falando sobre JavaScript e tecnologias Web.  
 Seu último projeto, ​__[Harmonic](https://github.com/JSRocksHQ/harmonic)​__, é um gerador de sites estáticos desenvolvido em ​Node.js, utlizando features da ES2015/ES6, nova versão do JavaScript.  
