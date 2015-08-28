@@ -15,14 +15,6 @@ Caso queira que eu palestre no seu evento, veja a seção __[Speaking](/pages/sp
 
 ## Pŕoximas palestras
 
-Evento: __[Front In Aracaju](http://www.frontinaracaju.com.br/)__  
-Data: A definir (provavelemente Novembro)  
-Local: Aracaju   
-
-Evento: __Terra Tech Talks (Evento interno no Terra)__  
-Data: 09 de Setembro  
-Local: Porto Alegre
-
 Evento: __[Webbr](http://conferenciaweb.w3c.br/)__  
 Data: 22 e 23 de Setembro  
 Local: São Paulo  
@@ -38,6 +30,14 @@ Local: Bahia
 Evento: __[Front In Manaus](http://frontinmanaus.com.br/)__  
 Data: 17 de Outubro  
 Local: Manaus  
+
+Evento: __[EATI](http://eati.info/eati/2015/)__  
+Data: 13 de Novembro  
+Local: Frederico Westphalen  
+
+Evento: __[Front In Aracaju](http://www.frontinaracaju.com.br/)__  
+Data: 28 de Novembro  
+Local: Aracaju  
 
 
 ## Histórico de palestras
