@@ -17,27 +17,27 @@ Caso queira que eu palestre no seu evento, veja a seção __[Speaking](/pages/sp
 
 Evento: __[Webbr](http://conferenciaweb.w3c.br/)__  
 Data: 22 e 23 de Setembro  
-Local: São Paulo  
+Local: São Paulo, SP  
 
 Evento: __[FrontEnd Carioca](http://frontendcarioca.com.br/)__  
 Data: 26 de Setembro  
-Local: Rio de Janeiro
-
-Evento: __[Front In Bahia](http://www.frontinbahia.com.br/)__  
-Data: 03 de Outubro  
-Local: Bahia
+Local: Rio de Janeiro, RJ
 
 Evento: __[Front In Manaus](http://frontinmanaus.com.br/)__  
 Data: 17 de Outubro  
-Local: Manaus  
+Local: Manaus, AM  
 
 Evento: __[EATI](http://eati.info/eati/2015/)__  
 Data: 13 de Novembro  
-Local: Frederico Westphalen  
+Local: Frederico Westphalen, RS 
 
 Evento: __[Front In Aracaju](http://www.frontinaracaju.com.br/)__  
 Data: 28 de Novembro  
-Local: Aracaju  
+Local: Aracaju, SE  
+
+Evento: __[Tech Interior](http://techinterior.com.br/)__  
+Data: 12 de Dezembro  
+Local: Jaboticabal, SP  
 
 
 ## Histórico de palestras
