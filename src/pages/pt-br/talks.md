@@ -27,9 +27,17 @@ Evento: __[Front In Manaus](http://frontinmanaus.com.br/)__
 Data: 17 de Outubro  
 Local: Manaus, AM  
 
+Evento: __[CCTEC Univates](http://univates.br/cctec/programacao/atividades/engesoft)__  
+Data: 21 de Outubro  
+Local: Lajeado, RS  
+
 Evento: __[EATI](http://eati.info/eati/2015/)__  
 Data: 13 de Novembro  
 Local: Frederico Westphalen, RS 
+
+Evento: __[DeveloperWeek iMasters](http://developerweek.imasters.com.br/porto-alegre/)__  
+Data: 19 de Novembro  
+Local: Porto Alegre, RS 
 
 Evento: __[Front In Aracaju](http://www.frontinaracaju.com.br/)__  
 Data: 28 de Novembro  
@@ -41,6 +49,28 @@ Local: Jaboticabal, SP
 
 
 ## Histórico de palestras
+
+![Os incríveis 8 passos para o sucesso na carreira de desenvolvedor de Software](/img/jaydson-palestra-8-passos.png)  
+Palestra: __Os incríveis 8 passos para o sucesso na carreira de desenvolvedor de Software__  
+Evento: __[Front In Manaus](http://frontinmanaus.com.br/), [CCTEC Univates](http://univates.br/cctec/programacao/atividades/engesoft/) e [EATI](http://eati.info/eati/2015/)__  
+Data: Outubro e Novembro 2015  
+Local: Manaus, Lajeado e Frederico Westphalen  
+Slides: [https://speakerdeck.com/jaydson/os-incriveis-8-passos-para-o-sucesso-na-carreira-de-desenvolvedor-de-software](https://speakerdeck.com/jaydson/os-incriveis-8-passos-para-o-sucesso-na-carreira-de-desenvolvedor-de-software)
+
+![Futuro do Subjuntivo - Quando vós programardes JavaScript](/img/jaydson-palestra-futuro-subjuntivo.png)  
+Palestra: __Futuro do Subjuntivo - Quando vós programardes JavaScript__  
+Evento: __[Webbr](http://conferenciaweb.w3c.br), [FrontEnd Carioca](http://frontendcarioca.com.br) e [DeveloperWeek iMasters](http://developerweek.imasters.com.br/porto-alegre/)__  
+Data: Setenbro e Novembro, 2015  
+Local: São Paulo, Rio de Janeiro e Porto Alegre  
+Slides: [https://speakerdeck.com/jaydson/futuro-do-subjuntivo-quando-vos-programardes-javascript](https://speakerdeck.com/jaydson/futuro-do-subjuntivo-quando-vos-programardes-javascript)
+
+![BrazilJS Conf 2015 - Abertura](/img/jaydson-palestra-braziljs-2015.png)  
+Palestra: __BrazilJS Conf 2015 - Abertura__  
+Evento: __[BrazilJS](http://braziljs.com.br/)__  
+Data: Agosto, 2015  
+Local: Porto Alegre, RS  
+Slides: [https://speakerdeck.com/jaydson/braziljs-conf-2015-abertura](https://speakerdeck.com/jaydson/braziljs-conf-2015-abertura)
+
 ![Jaydson Palestra Say my name](/img/jaydson-palestra-es6-say-my-name.png)  
 Palestra: __Say my name__  
 Evento: __[JSConf Uruguai](http://jsconf.uy/)__  
