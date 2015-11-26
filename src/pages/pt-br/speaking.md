@@ -14,7 +14,7 @@ Eu adoro palestrar. É algo realmente gratificante compartilhar o conhecimento e
 Já faço palestras há mais 8 anos e nunca sinto vontade de parar.  
 Porém, minha profissão não é ser um "palestrante". Eu sou um profissional na área de tecnologia, mais precisamente, no desenvolvimento de software para Web.    
 Não dou palestras que não tenham sentido e que não façam parte do meu trabalho diário.  
-Conte comigo para falar sobre __JavaScript__ e desenvolvimento Web em geral.  
+Conte comigo para falar sobre __JavaScript__, desenvolvimento Web em geral e sobre o mercado nessa área.  
 Veja algumas das palestras que já apresentei por aí na seção [Talks](/pages/talks) aqui do site, onde também é possível ver as próximas palestras que tenho na agenda.  
 
 ![Jaydson palestrando no FISL](/img/jaydson-gomes-speaking-fisl.jpg)  
@@ -22,7 +22,7 @@ Veja algumas das palestras que já apresentei por aí na seção [Talks](/pages/
 
 ## Informações básicas
 __Nome__: Jaydson Gomes  
-__Empresa__: NascWeb  
+__Empresa__: [Nasc](http://nasc.io)  
 __Cargo__: Desenvolvedor de Software  
 __Twitter__: [@jaydson](https://twitter.com/jaydson)  
 __Github__: [@jaydson](https://github.com/jaydson)  
@@ -35,6 +35,7 @@ Não sou nada exigente, mas antes de me convidar para o seu evento/conferência/
 - Se o evento não for na minha cidade (Porto Alegre, RS), o evento deve custear passagens de avião e hotel  
 - Eventos em Porto Alegre ou no interior do RS devem cobrir o custo de gasolina, ou em alguns casos custear passagem de ônibus, e hotel no caso de necessidade de dormir na cidade
 - Eu não cobro cachê para palestrar, mas se quiser me pagar uma cerveja(artesanal de preferência), será bem aceita :)  
+- Normalmente tenho gastos ao ir para o evento, como por exemplo: estacionamento no aeroporto, alimentação, etc. Se o evento puder reembolsar isso, ficarei muito grato :)  
 - Tenha a data e local do evento definidos para que eu possa me programar
 - Se possível, me informe o perfil dos participantes do evento (estudantes, empresários, hard-core developers, etc)
 - Se possível, me informe a estimativa de público do evento
@@ -44,14 +45,15 @@ Não sou nada exigente, mas antes de me convidar para o seu evento/conferência/
 ![Jaydson palestrando na JSConf UY](/img/jaydson-gomes-speaking-jsconf-uy-2015.jpg)  
 
 ## Bio
-Jaydson Gomes tem +de 10 anos de experiência em desenvolvimento __Web__.  
+__Jaydson Gomes__ tem +de 12 anos de experiência em desenvolvimento __Web__.  
 ​É desenvolvedor de software especializado em __JavaScript__, linguagem que é uma de suas paixões.  
-​É curador e idealizador da ​__[BrazilJS Conf](http://braziljs.com.br/)__, uma das maiores conferências do mundo sobre a linguagem __JavaScript__.  
-É criador do ​projeto __[JSRocks](http://jsrocks.org)__, um site dedicado a disseminar informações sobre a nova especificação do JavaScript, além de reunir conteúdo de qualidade com curadoria especializada.  
-​Jaydson é entusiasta open-source e tem apresentado diversas palestras ao longo dos últimos anos, em sua grande maioria falando sobre JavaScript e tecnologias Web.  
-Seu último projeto, ​__[Harmonic](https://github.com/JSRocksHQ/harmonic)​__, é um gerador de sites estáticos desenvolvido em ​Node.js, utlizando features da ES2015/ES6, nova versão do JavaScript.  
+​É sócio fundador da __[Nasc](http://nasc.io)__, é curador e idealizador da ​__[BrazilJS Conf](http://braziljs.com.br/)__, uma das maiores conferências do mundo sobre a linguagem __JavaScript__.  
+É criador do ​projeto __[JSRocks](http://jsrocks.org)__, um site dedicado a disseminar informações sobre a nova especificação do __JavaScript__, além de reunir conteúdo de qualidade com curadoria especializada.  
+​Jaydson é entusiasta open-source e tem apresentado diversas palestras ao longo dos últimos anos, em sua grande maioria falando sobre __JavaScript__ e __tecnologias Web__.  
+Seu último projeto, ​__[Harmonic](https://github.com/JSRocksHQ/harmonic)​__, é um gerador de sites estáticos desenvolvido em ​__Node.js__, utlizando features da __ES2015/ES6__, nova versão do __JavaScript__.  
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/7g_6hfG0stc" frameborder="0" allowfullscreen></iframe>
+<iframe width="48%" height="500" src="https://www.youtube.com/embed/7g_6hfG0stc" frameborder="0" allowfullscreen></iframe>
+<iframe width="48%" height="500" src="https://www.youtube.com/embed/O8xmfaE4XUc" frameborder="0" allowfullscreen></iframe>
 
 ## Fotos
 Sinta-se livre para usar qualquer uma das imagens abaixo no site do seu evento.  
