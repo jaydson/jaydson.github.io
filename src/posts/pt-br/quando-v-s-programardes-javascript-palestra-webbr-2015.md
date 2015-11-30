@@ -15,6 +15,6 @@ Nessa talk falei sobre as novas versões do JavaScript, mostrando cases, novas f
 O vídeo da palestra está disponível no Youtube:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8erF1b6_rmg?list=PLQq8-9yVHyOaHUE6t3x89xRO4-tPR1n2L" frameborder="0" allowfullscreen></iframe>
 
-<br /><br />
+<br /><br />  
 Os slides estão no meu speakerdeck:  
 <script async class="speakerdeck-embed" data-id="344b9913ca0e47f6a31761f9d9cd206f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
