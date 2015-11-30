@@ -6,9 +6,22 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Thu, 26 Nov 2015 02:33:17 GMT</pubDate>
+        <pubDate>Mon, 30 Nov 2015 03:31:48 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Quando vós programardes JavaScript - Palestra Webbr 2015</title>
+            <link>http://jaydson.org/quando-v-s-programardes-javascript-palestra-webbr-2015</link>
+            <description><![CDATA[<p>Em Setembro de 2015 aconteceu a 7º edição da <a href="http://conferenciaweb.w3c.br/">Webbr</a>, a principal conferência da <a href="http://www.w3c.br/Home/WebHome">W3C</a> no Brasil.<br>Novamente tive a oportunidade de ser um dos palestrantes nesse evento super importante para a comunidade de desenvolvimento brasileira.<br>Nessa talk falei sobre as novas versões do JavaScript, mostrando cases, novas features e o que esperar do futuro da linguagem.<br>O vídeo da palestra está disponível no Youtube:  </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8erF1b6_rmg?list=PLQq8-9yVHyOaHUE6t3x89xRO4-tPR1n2L" frameborder="0" allowfullscreen></iframe>
+
+<p><br /><br />
+Os slides estão no meu speakerdeck:  </p>
+<script async class="speakerdeck-embed" data-id="344b9913ca0e47f6a31761f9d9cd206f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>]]></description>
+            <pubDate>Mon, 30 Nov 2015 03:21:10 GMT</pubDate>
+            <guid>http://jaydson.org/quando-v-s-programardes-javascript-palestra-webbr-2015</guid>
+        </item>
         
         <item>
             <title>Say my name - Palestra na JSConf Uruguai</title>
@@ -241,15 +254,6 @@ Ainda é possível criar relações de maneira bem simples.<br>Digamos que um ar
 ]]></description>
             <pubDate>Wed, 10 Sep 2014 03:14:37 GMT</pubDate>
             <guid>http://jaydson.org/a-falacia-do-nao-ter-tempo</guid>
-        </item>
-        
-        <item>
-            <title>Reportagem BrazilJS 2014</title>
-            <link>http://jaydson.org/reportagem-braziljs-2014</link>
-            <description><![CDATA[<p>Mais uma vez a repercussão da BrazilJS Conf supera barreiras.<br>Neste ano, a rede Record fez uma matéria bem bacana sobre o que rolou no evento, entrevistando palestrantes e organizadores do evento, além de capturar a essência do evento em takes de palestras e da galera fazendo networking.<br>Ainda me surpreendo com o alcance do evento.  </p>
-<iframe width="100%" height="600" src="//www.youtube.com/embed/AgZJQT1-ixg" frameborder="0" allowfullscreen></iframe>]]></description>
-            <pubDate>Thu, 28 Aug 2014 04:32:40 GMT</pubDate>
-            <guid>http://jaydson.org/reportagem-braziljs-2014</guid>
         </item>
         
     </channel>
