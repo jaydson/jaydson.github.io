@@ -6,9 +6,24 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Mon, 30 Nov 2015 14:08:22 GMT</pubDate>
+        <pubDate>Tue, 12 Jan 2016 23:00:17 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Internet Explorer 8, 9 e 10 e o fim de uma era</title>
+            <link>http://jaydson.org/internet-explorer-8-9-e-10-e-o-fim-de-uma-era</link>
+            <description><![CDATA[<p><div style="text-align:center"><img src="/img/ie-grave.jpg" alt=""></div><br>  </p>
+<p>Que dia histórico hein pessoal? 12 de Janeiro de 2016. Guardem esse dia em lugar especial da memória.<br>O dia em que a Microsoft aposentou o Internet Explorer.<br>Para quem não é tão velho como eu ou como o <a href="http://tableless.com.br/internet-explorer-8-9-e-10-foram-pro-saco/">Diego Eis</a>, talvez essa notícia não seja muito relevante, mas para quem viveu ao menos um pouco dos trágicos dias de desenvolvimento Web com a presença massiva do Internet Explorer, isso é um marco.<br>Assim como em 2009, o lançamento do Internet Explorer 8 também foi um marco.<br>Veja o meu velho relato aqui no Blog, no dia do lançamento do dito cujo: <a href="http://jaydson.org/internet-explorer-8/">http://jaydson.org/internet-explorer-8/</a>.<br>Na época eu listava feliz os recusros do novo Browser, como uma ferramenta para desenvolvedores! Wow!  </p>
+<p>Parar de dar suporte as versões velhas do IE representa não apenas o que parece. Isso basicamente mostra uma nova Microsoft adaptada ao &quot;mundo real&quot;, digamos assim.<br>Podemos nos considerar vencedores nessa longa jornada que foi a luta contra o amargo browser azul.  </p>
+<h2 id="fim-do-suporte-e-futuro">Fim do suporte e futuro</h2>
+<p>Começando hoje, dia 12 de Janeiro de 2016, somente a versão mais atual do navegador Internet Explorer estará disponível.<br>No caso, apenas o Internet Explorer 11 receberá o devido suporte da Microsoft.<br>Por suporte entenda correções de bugs, atualizações de segurança, etc.<br>Obviamente, o fim do suporte não afetará imediatamente a todos. Não dê pulo de alegrias achando que em um piscar de olhos o mundo estará livre do nosso amigo. Isso leva tempo.<br>Mas o primeiro e mais importante passo foi dado, não têm volta. Emrpesas que ainda usam as versões velhas aos poucos vão se adaptar e no futuro tudo será lindo.  </p>
+<p>O futuro é bastante promissor. O novo browser da Microsoft, o Edge, parece ser realmente muito bom, inclusive estando a frente de Chrome e Firefox em vários aspectos.<br>Mas o fato de fazer um browser que funcione bem não é motivo de orgulho para ninguém, isso é o básico.<br>O que mais me surpreende é a nova postura que a empresa está tomando, inclusive <a href="https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/">tornando open-source</a> a engine JavaScript que roda no Edge.  </p>
+<p>Que época boa para se viver não?<br>Mas claro, nossa vida de dev Front-end não é fácil. Se hoje a realidade dos browsers nos favorece de um lado, do outro a complexidade absurda que o Front-end se tornou assusta.  </p>
+]]></description>
+            <pubDate>Tue, 12 Jan 2016 21:36:06 GMT</pubDate>
+            <guid>http://jaydson.org/internet-explorer-8-9-e-10-e-o-fim-de-uma-era</guid>
+        </item>
         
         <item>
             <title>Quando vós programardes JavaScript - Palestra Webbr 2015</title>
@@ -228,31 +243,6 @@ Ainda é possível criar relações de maneira bem simples.<br>Digamos que um ar
 ]]></description>
             <pubDate>Wed, 20 May 2015 02:27:47 GMT</pubDate>
             <guid>http://jaydson.org/20-anos-do-javascript</guid>
-        </item>
-        
-        <item>
-            <title>A falácia do não ter tempo</title>
-            <link>http://jaydson.org/a-falacia-do-nao-ter-tempo</link>
-            <description><![CDATA[<p>Não caia nessa armadilha cômoda de dizer que não tem tempo pra nada.<br>Exemplos:<br><em>&quot;Não vi teu email ainda, pois estou com a caixa cheia e não tive tempo&quot;</em>.<br><em>&quot;Não fiz aquela viagem, pois estou muito aterefado no trabalho e não tive tempo&quot;</em>.<br><em>&quot;Hoje não vou almoçar, pois estou sem tempo!&quot;</em>.<br><em>&quot;Não posso me divertir pois estou sem tempo!&quot;</em>.  </p>
-<p><strong>BULLSHIT</strong>!<br>Eu poderia citar 1000 frases que já ouvi de pessoas que dizem que não tem tempo pra nada.<br>Eu mesmo já cheguei a cair nessa armadilha, mas hoje estou curado, e quero compartilhar com vocês essa minha experiência.  </p>
-<h2 id="-n-o-ter-tempo-bullshit">&quot;Não ter tempo&quot; é bullshit</h2>
-<p>Sério. Não ter tempo é falta de organização e falta de priorização.<br>No início do ano eu entrei em um projeto crítico no Terra, daqueles que se não funcionar, nada mais funciona.<br>Fiquei envolvido meses nesse projeto e o resultado foi excelente, tudo entregue, e o novo Terra foi pro ar como era esperado.  </p>
-<p>Organizar um evento pode parecer fácil, mas digo com toda propriedade, não é! Leva-se um ano inteiro para organizar um evento do porte da <a href="http://braziljs.com.br">BrazilJS Conf</a>.<br>Desde o meio do ano passado eu venho trabalhando para fazer o evento acontecer. Note que simultâneamente organizo um evento internacional para 1000 pessoas e trabalho full-time no Terra.<br>Bom, a BrazilJS Conf foi um sucesso, novamente. Com muito trabalho e dedicação, o evento aconteceu em Agosto e atingiu todas as expectativas.  </p>
-<p>Neste ano, já palestrei mais de 10 vezes em no mínimo 7 estados diferentes no Brasil.<br>Para quem acha que palestrar é fácil, digo com propriedade, não é.<br>Para dar uma palestra, é preciso muito estudo sobre o assunto, preparação, viagem, etc.<br>Não sou só palestrante, também participei de vários eventos como espectador.  </p>
-<p>Não podemos parar de estudar nunca, certo?<br>Este ano me dediquei aos estudos de <a href="http://es6rocks.com">ES6</a>, a nova versão do JavaScript.<br>Dei palestras a respeito, e resolvi criar um site voltado para disseminar o conhecimento adquirido durante os meus estudos, o <a href="http://es6rocks.com">ES6Rocks.com</a>.<br>Não contente em criar um site, antes mesmo de faze-lo, eu decidi criar um gerador de sites estáticos, também usando o conhecimento sobre ES6, então nasceu o projeto open-source <a href="https://github.com/es6rocks/harmonic">Harmonic</a>.  </p>
-<p>Também resolvi mudar o meu blog. Não somente a parte visual, mas o back-end também.<br>Como criei um gerador de sites estáticos, fazia muito sentido usa-lo para o meu próprio blog.<br>Fiz a migração da plataforma Octpress para o Harmonic, e também dei uma <a href="http://jaydson.org/novo-blog-powered-by-harmonic/">boa mudada</a> no layout.<br>Obviamente, manter um blog não é tarefa fácil, é necessário conteúdo, e este ano, fiz alguns posts como esse que escrevo agora.  </p>
-<p>Mas vocês podem estar pensando <em>&quot;ah, mas ele só faz isso, nem deve se divertir&quot;</em>.<br>Estou atualmente assistindo 7 séries(Para os curiosos: Hannibal, Vikings, Under the dome, Walking dead, Da Vinci demons, True Detective e Family Guy)! Além de sempre ir no cinema quando tem algum filme legal, ou assistir no pc.  </p>
-<p>Tenho um filho, e apesar de ele morar com a mãe, eu me envolvo em tudo que posso para ser o pai mais presente do mundo.<br>Minha namorada mora a 2h da minha cidade, ou seja, de 2 em 2 semanas eu viajo pra passar o final de semana com ela.<br>E por falar em final de semana, eu <strong>NUNCA</strong> trabalho no final de semana(existem exceções muito raras).  </p>
-<p>Eu estou sempre ativo no Twitter, Facebook, Gmail e Github.<br>Também vejo as notícias no Terra e em outros sites e eventualmente na tv.<br>Acho que chega né?<br>Acredite, eu faço mais coisas do que listei acima.<br>Então, <strong>O SEU ARGUMENTO É INVÁLIDO</strong>.  </p>
-<h2 id="qual-o-segredo-">Qual o segredo?</h2>
-<p>O primeiro segredo é admitir pra si mesmo que essa história do &quot;não ter tempo&quot; é <em>bullshitagem</em>.<br>Não existe receita milagrosa para isso, basta querer e parar de frescura.<br>A única &quot;técnica&quot; que utilizo é a regra dos 2 minutos.<br>Essa regra consiste em eliminar as pequenas coisas que normalmente são procrastinadas.<br>É bem simples: Leva menos de 2 minutos pra fazer? Faz.<br>Exemplo clássico:<br>Um email na tua caixa de entrada que tu só precisa responder &quot;sim&quot; ou &quot;não&quot;.<br>Responda na hora. Não marque como não lido pra responder depois.<br>Acredite, essa técnica funciona.  </p>
-<p>Outro ponto, que pode não ser fácil, é fazer as coisas com tesão.<br>Se o que precisa ser feito não é algo tão legal, procure uma maneira de tornar essa tarefa agradável, mesmo que leve mais tempo.<br>Não deixe de lado o lazer nunca. Sempre arrange um tempo para sair, beber, ir no cinema, ver uma série, ir em um show, etc.  Isso vai te tornar mais produtivo.  </p>
-<p>Outra dica, faça uma pequena coisa de cada vez. Eu sei, o mundo é corrido, temos que conciliar várias coisas ao mesmo tempo, mas sempre da pra quebrar em pequenas partes.<br>Última: saiba dizer não e saiba dizer que não vai fazer, e melhor ainda, delegue tarefas que podem ser delegadas.  </p>
-<h2 id="conclus-o">Conclusão</h2>
-<p>Se o teu perfil bate com esse cara que não tem tempo, tente dar uma repensada nas tuas tarefas.<br>Eu consegui, qualquer um consegue, basta querer.<br>O ano ainda não acabou, ainda posso fazer o dobro do que fiz até agora, sem loucura, e sem abrir mão do lazer.<br>Tente não procrastinar tanto, as vezes acabamos deixando uma coisa pra depois, sem problemas, mas quando tudo fica pra depois, aí fica difícil.  </p>
-]]></description>
-            <pubDate>Wed, 10 Sep 2014 03:14:37 GMT</pubDate>
-            <guid>http://jaydson.org/a-falacia-do-nao-ter-tempo</guid>
         </item>
         
     </channel>
