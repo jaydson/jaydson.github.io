@@ -6,9 +6,18 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Tue, 12 Jan 2016 23:00:17 GMT</pubDate>
+        <pubDate>Sat, 13 Feb 2016 16:07:14 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Os 8 passos para o sucesso na carreira de dev</title>
+            <link>http://jaydson.org/os-8-passos-para-o-sucesso-na-carreira-de-dev</link>
+            <description><![CDATA[<p>Em 2015 montei a palestra com um título bem canalha: Os incríveis 8 passos para o sucesso na carreira de desenvolvimento de software.<br>Este título é obviamente uma bricandeira, visto que não existe fórmula para o sucesso em nenhuma carreira.<br>O que fiz foi contar um pouco da minha história, além de tentar dar algumas possíveis dicas para que esta começando a se aventurar na área.<br>O vídeo abaixo foi no TechInterior, evento em Jaboticabal, interior de São Paulo.<br>Os slides estão disponíveis no SpeakerDeck: <a href="https://speakerdeck.com/jaydson/os-incriveis-8-passos-para-o-sucesso-na-carreira-de-desenvolvedor-de-software">https://speakerdeck.com/jaydson/os-incriveis-8-passos-para-o-sucesso-na-carreira-de-desenvolvedor-de-software</a>  </p>
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/1h3jjLqD39M" frameborder="0" allowfullscreen></iframe></div>]]></description>
+            <pubDate>Sat, 13 Feb 2016 15:51:12 GMT</pubDate>
+            <guid>http://jaydson.org/os-8-passos-para-o-sucesso-na-carreira-de-dev</guid>
+        </item>
         
         <item>
             <title>Internet Explorer 8, 9 e 10 e o fim de uma era</title>
@@ -231,18 +240,6 @@ Ainda é possível criar relações de maneira bem simples.<br>Digamos que um ar
 <script async class="speakerdeck-embed" data-id="b6e9667059bb013265ca4603c43c215f" data-ratio="1.6" src="//speakerdeck.com/assets/embed.js"></script>]]></description>
             <pubDate>Fri, 22 May 2015 02:34:29 GMT</pubDate>
             <guid>http://jaydson.org/es6rocks-palestra-na-jsconf-argentina</guid>
-        </item>
-        
-        <item>
-            <title>20 anos do JavaScript</title>
-            <link>http://jaydson.org/20-anos-do-javascript</link>
-            <description><![CDATA[<p><em>Texto originalmente postado no blog do Rafael Kuhn, CTO do <a href="http://terra.com.br">Terra</a>.<br><a href="http://tecnologia.terra.com.br/na-terra-da-tecnologia/blog/2015/05/19/20-anos-de-javascript-a-chegada-a-maturidade/">http://tecnologia.terra.com.br/na-terra-da-tecnologia/blog/2015/05/19/20-anos-de-javascript-a-chegada-a-maturidade/</a></em>  </p>
-<p>Em maio de 1995 nascia a linguagem de programação que hoje podemos chamar de linguagem ubíqua.<br>Sim, o JavaScript está em todos os lugares ao mesmo tempo de forma quase onipresente.<br>Não acredita?<br>O JavaScript está presente em 99,99% dos browsers. Praticamente todas as páginas web executam algum tipo de código JavaScript, ou seja, pode ter certeza que diariamente muito código JavaScript está sendo executado durante uma pesquisa no Google, leitura de uma notícia no Terra ou procrastinação no Facebook.<br>A internet das coisas está em alta e o JavaScript está presente neste contexto como linguagem de alto-nível (<a href="nodejs.org">Node.js</a>) para programação de equipamentos que são capazes de se comunicar com a internet, através de frameworks e plataformas como o <a href="https://tessel.io/">Tessel</a>.<br>Na robótica, o JavaScript se faz presente da mesma maneira. Existem diversas ferramentas que facilitam a interação com o hardware, possibilitando a criação de robôs. O <a href="https://github.com/rwaldron/johnny-five">johnny-five</a> é um exemplo de ferramenta com tal capacidade.<br>A plataforma Node.js possibilita a criação de aplicações web escaláveis, fazendo com que o JavaScript hoje atue não somente no browser, mas também no servidor.<br>Grandes empresas como <a href="https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/">PayPal</a>, <a href="https://www.joyent.com/developers/videos/node-js-at-walmart-introduction">Wallmart</a>, <a href="https://developer.yahoo.com/cocktails/mojito/docs/intro/mojito_quicktour.html">Yahoo!</a>, <a href="http://blogs.windows.com/buildingapps/2015/05/12/bringing-node-js-to-windows-10-iot-core/">Microsoft</a>, <a href="https://hacks.mozilla.org/category/node-js/">Mozilla</a>, entre outras, apostam no Node.js como ferramenta de ponta para criar aplicações, ferramentas, servidores, etc.<br>Com o JavaScript ainda é possível driblar a fragmentação do mercado mobile. Existem diversas ferramentas que possibilitam criar aplicações utilizando a plataforma Web como base e, no final, gerar apps para Android e IOS. O <a href="https://www.nativescript.org/">NativeScript</a> é um ótimo exemplo de como usar JavaScript para desenvolver apps mobile de forma híbrida.<br>Os exemplos não param por aí, existem muitas outras áreas onde o JavaScript está embutido de forma passiva ou ativa, inclusive em sistemas operacionais como o <a href="https://www.mozilla.org/en-US/firefox/os/2.0/">FirefoxOS</a> e o <a href="https://node-os.com/">NodeOS</a>.<br>Como tudo na tecnologia, o JavaScript também evolui de forma exponencial, em um espaço de tempo cada vez menor.<br><a href="http://blog.codinghorror.com/the-principle-of-least-power/">Jeff Atwood</a> não é nenhum <a href="http://pt.wikipedia.org/wiki/Lei_de_Moore">Gordon Moore</a>, mas nos cunhou uma das leis mais acertivas dos últimos tempos: &quot;Any application that can be written in JavaScript, will eventually be written in JavaScript&quot;.  </p>
-<p>No ano em que o JavaScript completa seus 20 anos, uma nova versão está prestes a ser lançada (Junho de 2015).<br>A versão ES2015 (também chamada de ES6) é a sexta versão do JavaScript, e é a maior atualização feita na linguagem desde o seu lançamento.<br>Esta nova versão conta com uma série de novos recursos e melhorias na linguagem. Tais avanços abrem um novo horizonte para os desenvolvedores que agora contam com uma linguagem muito mais robusta e eficiente.<br>A nomenclatura na versão da linguagem mudou, e agora segue um novo modelo para próximos lançamentos. A ideia é ter atualizações anuais, fazendo com que a linguagem não fique estagnada, como aconteceu em anos anteriores.<br>A versão ES2016 já está em pauta e é possível <a href="https://esdiscuss.org/">acompanhar</a> o que está sendo elaborado e até mesmo colaborar no desenvolvimento da nova especificação.  </p>
-<p>No Brasil, o JavaScript está bem representado por uma comunidade muito forte e extremamente engajada.<br>Mais de 30 eventos regionais relacionados ao JavaScript acontecem anualmente, sendo a <a href="http://braziljs.com.br/">BrazilJS Conf</a> o principal evento.<br>Além de principal conferência sobre JavaScript no Brasil, a BrazilJS Conf é a maior conferência JavaScript do mundo, contando com mais de 1000 pessoas todo ano e trazendo nomes de peso da comunidade mundial para palestrar.<br>Neste ano acontece a 5º edição do evento, em Porto Alegre, dias 21 e 22 de Agosto.<br>Alguns palestrantes já foram anunciados, dentre eles <a href="http://en.wikipedia.org/wiki/Brendan_Eich">Brendan Eich</a>, criador do JavaScript, <a href="http://andreasgal.com/">Andreas Gal</a>, CTO da Mozilla e Laurie Voss, CTO do <a href="https://www.npmjs.com/">npm</a>.  </p>
-]]></description>
-            <pubDate>Wed, 20 May 2015 02:27:47 GMT</pubDate>
-            <guid>http://jaydson.org/20-anos-do-javascript</guid>
         </item>
         
     </channel>
