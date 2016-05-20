@@ -6,9 +6,26 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Sat, 13 Feb 2016 16:07:14 GMT</pubDate>
+        <pubDate>Fri, 20 May 2016 16:29:26 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Entrevista sobre Node.js</title>
+            <link>http://jaydson.org/entrevista-sobre-node-js</link>
+            <description><![CDATA[<p>Saiu o vídeo de uma entrevista que dei para a <a href="http://www.kinghost.com.br/">KingHost</a> falando sobre o nosso amigo <a href="https://nodejs.org">Node.js</a>.<br>Nessa entrevista eu falo sobre alguns tópicos, como:  </p>
+<ul>
+<li>Engine V8 e Chakra core</li>
+<li>Comunidade open-source</li>
+<li>ES2015/ES2016//ES2017 e os ciclos de versionamento do JavaScript</li>
+<li>npm</li>
+<li>JavaScript é a linguagem mais popular do mundo tanto no Front-end quanto no Back-end  </li>
+</ul>
+<p>Confere lá!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g7ycpKmEHoM" frameborder="0" allowfullscreen></iframe>]]></description>
+            <pubDate>Fri, 20 May 2016 15:23:41 GMT</pubDate>
+            <guid>http://jaydson.org/entrevista-sobre-node-js</guid>
+        </item>
         
         <item>
             <title>Os 8 passos para o sucesso na carreira de dev</title>
@@ -228,18 +245,6 @@ Ainda é possível criar relações de maneira bem simples.<br>Digamos que um ar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xzTfi7Wz6ac" frameborder="0" allowfullscreen></iframe>]]></description>
             <pubDate>Tue, 26 May 2015 00:47:37 GMT</pubDate>
             <guid>http://jaydson.org/entrevista-jsconf-argentina-2014</guid>
-        </item>
-        
-        <item>
-            <title>ES6Rocks - Palestra na JSConf Argentina</title>
-            <link>http://jaydson.org/es6rocks-palestra-na-jsconf-argentina</link>
-            <description><![CDATA[<p>Em novembro de 2014 tive o prazer de palestrar na <a href="http://jsconfar.com/">JSConf Argentina</a>.<br>Além da pressão de pela primeira vez palestrar em inglês, dividi o palco com <a href="https://brendaneich.com/">Brendan Eich</a>, <a href="http://andreasgal.com/">Andreas Gal</a>, <a href="https://alexsexton.com/">Alex Sexton</a>, <a href="http://mrdoob.com/">Mr. Doob</a>, <a href="https://github.com/sebmarkbage">Sebastián Markbage</a>, entre outros. Baita responsabilidade.<br>Lá falei sobre ES6, a nova versão do JavaScript (hoje ES2015 - as coisas mudam rápido né?).<br>O vídeo da palestra está disponível no Youtube:  </p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/7g_6hfG0stc" frameborder="0" allowfullscreen></iframe> 
-<br /><br /> </p>
-<p>E os slides no speakerdeck:</p>
-<script async class="speakerdeck-embed" data-id="b6e9667059bb013265ca4603c43c215f" data-ratio="1.6" src="//speakerdeck.com/assets/embed.js"></script>]]></description>
-            <pubDate>Fri, 22 May 2015 02:34:29 GMT</pubDate>
-            <guid>http://jaydson.org/es6rocks-palestra-na-jsconf-argentina</guid>
         </item>
         
     </channel>
