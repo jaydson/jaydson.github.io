@@ -6,9 +6,23 @@
         <description>Coisas sobre JavaScript e desenvolvimento Web</description>
         <managingEditor>Jaydson</managingEditor>
         <webMaster>Jaydson</webMaster>
-        <pubDate>Fri, 20 May 2016 16:29:26 GMT</pubDate>
+        <pubDate>Wed, 06 Jul 2016 04:51:13 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://jaydson.org/rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>As 12 regras do cérebro aplicadas ao desenvolvimento de Software - Vídeo</title>
+            <link>http://jaydson.org/as-12-regras-do-cerebro-aplicadas-ao-desenvolvimento-de-software-video</link>
+            <description><![CDATA[<p>No final de Junho palestrei no excelente <a href="http://frontinsm.com.br/">FrontInSM</a>, evento parceiro do BrazilJS, que acontece em Santa Maria, interior do Rio Grande do Sul.<br>O evento foi muito legal e contou várias palestras muito boas, todas disponíveis no <a href="https://www.youtube.com/playlist?list=PLg2lQYZDBwOSIaYbxJ5hLYfxkUZndjyAg">canal da BrazilJS no YouTube</a>.  </p>
+<p>No evento apresentei minha nova palestra: As 12 regras do cérebro aplicadas ao desenvolvimento de Software.<br>Esta é uma palestra não-tão-técnica, onde tento fazer um <em>merge</em> do que aprendi no livro Brain Rules com minha experiência no mundo do desenvolvimento de Software.<br>Descrição da palestra:<br>&quot;O livro “Brain Rules” mostra que não sabemos nada sobre o nosso cérebro. Após anos de estudo, o cientista e autor do livro elaborou 12 regras incríveis que explicam como o nosso cérebro funciona e como podemos melhorar nossa performance física e mental. Mas WTF Jaydson, eu quero saber é de programação. Pois é, mas o cérebro é uma peça importante na hora de programar? A palestra faz um merge e tenta encontrar uma simetria nas regras que podemos utilizar para aprimorar nossas habilidades como profissionais.&quot;</p>
+<p>Abaixo segue o vídeo:  </p>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3CkeSb5bL1I" frameborder="0" allowfullscreen></iframe>
+</center>
+]]></description>
+            <pubDate>Wed, 06 Jul 2016 04:34:46 GMT</pubDate>
+            <guid>http://jaydson.org/as-12-regras-do-cerebro-aplicadas-ao-desenvolvimento-de-software-video</guid>
+        </item>
         
         <item>
             <title>Entrevista sobre Node.js</title>
@@ -236,15 +250,6 @@ Ainda é possível criar relações de maneira bem simples.<br>Digamos que um ar
 ]]></description>
             <pubDate>Wed, 27 May 2015 21:30:20 GMT</pubDate>
             <guid>http://jaydson.org/api-s-rest-em-1-minuto</guid>
-        </item>
-        
-        <item>
-            <title>Entrevista JSConf Argentina 2014</title>
-            <link>http://jaydson.org/entrevista-jsconf-argentina-2014</link>
-            <description><![CDATA[<p>No <a href="/es6rocks-palestra-na-jsconf-argentina">post anterior</a> falei sobre minha palestra na JSConf Argentina.<br>Além do vídeo da palestra, rolou também uma pequena entrevista bem bacana feita pelo pessoal da organização.<br>Na entrevista falo um pouco sobre o que foi a minha palestra, e claro, sobre JavaScript :)</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xzTfi7Wz6ac" frameborder="0" allowfullscreen></iframe>]]></description>
-            <pubDate>Tue, 26 May 2015 00:47:37 GMT</pubDate>
-            <guid>http://jaydson.org/entrevista-jsconf-argentina-2014</guid>
         </item>
         
     </channel>
